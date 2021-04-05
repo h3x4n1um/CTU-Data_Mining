@@ -21,7 +21,7 @@ with open("Crawling_B1812339.csv", 'w', encoding="utf-8", newline='') as csvfile
     
     for c in range(1, cnt+1):
         response = requests.get("https://www.winemag.com/?s=&drink_type=wine&page="+str(c)+"&search_type=reviews", headers=headers)
-        soup = BeautifulSoup(response.content, "html.parser")
+        soup = BeautifulSoup(response.content, "lxml")
 
         wine_table = soup.find("section", id="search-results")
         #print(wine_table)
@@ -31,7 +31,7 @@ with open("Crawling_B1812339.csv", 'w', encoding="utf-8", newline='') as csvfile
 
         for wine_ele in wine_list:
             wine_page = requests.get(wine_ele.get("href"), headers=headers)
-            wine_soup = BeautifulSoup(wine_page.content, "html.parser")
+            wine_soup = BeautifulSoup(wine_page.content, "lxml")
 
             wine_info_dict = dict()
 
@@ -66,7 +66,7 @@ with open("Crawling_B1812339.csv", 'w', encoding="utf-8", newline='') as csvfile
             # taster_twitter_handle
             if taster_name not in taster_twitter_handle_dict:
                 taster_page = requests.get(taster_link, headers=headers)
-                taster_soup = BeautifulSoup(taster_page.content, "html.parser")
+                taster_soup = BeautifulSoup(taster_page.content, "lxml")
                 twitter_handle = taster_soup.find("li", class_="twitter").get_text()
                 taster_twitter_handle_dict[taster_name] = twitter_handle
 
