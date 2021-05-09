@@ -1,0 +1,1268 @@
+[
+    {
+        "address_required": 0,
+        "address_trans": "",
+        "arrival_date": "2021-05-10",
+        "availability_blackout_applied": 0,
+        "available_deal_descriptions": [],
+        "b_legal_use_neutral_color_for_persuasion_legal": 0,
+        "b_sca_flow_property_user_ip": 0,
+        "block": [
+            {
+                "all_inclusive": 0,
+                "b_bsb_campaigns": [],
+                "b_bsd_reward_hp": null,
+                "babycots_available": 0,
+                "babycots_available_amount": null,
+                "bed_configurations": [
+                    {
+                        "bed_types": [
+                            {
+                                "bed_type": 2,
+                                "count": 1,
+                                "description": "131-150 cm wide",
+                                "description_imperial": "52-59 inches wide",
+                                "description_localized": null,
+                                "name": "Full bed",
+                                "name_with_count": "1 full bed"
+                            }
+                        ]
+                    }
+                ],
+                "block_id": "30720003_123745816_0_0_0",
+                "block_text": {
+                    "facilities": [
+                        "Minibar",
+                        "Shower",
+                        "Bathtub",
+                        "Safe",
+                        "Telephone",
+                        "Air conditioning",
+                        "Refrigerator",
+                        "Sitting area",
+                        "Free toiletries",
+                        "Toilet",
+                        "Private bathroom",
+                        "Flat-screen TV",
+                        "Hardwood or parquet floors",
+                        "Electric kettle",
+                        "Wardrobe or closet",
+                        "Toilet paper",
+                        "Trash cans"
+                    ],
+                    "free_facilities": [],
+                    "policies": [
+                        {
+                            "class": "POLICY_CANCELLATION",
+                            "content": "Note that if canceled, modified, or in case of no-show, the total price of the reservation will be charged."
+                        },
+                        {
+                            "class": "POLICY_PREPAY",
+                            "content": "You'll be charged a prepayment of the total price at any time."
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_INCLUDED",
+                            "content": "10% VAT, 5% Service charge"
+                        },
+                        {
+                            "class": "POLICY_TITLE",
+                            "content": "Non Refundable"
+                        }
+                    ],
+                    "room_desc": "This double room features a seating area, air conditioning and mini-bar."
+                },
+                "breakfast_included": 0,
+                "can_reserve_free_parking": 1,
+                "deals": {
+                    "deal_attributes": {
+                        "has_multiple_deals": 0,
+                        "has_secret_channel_option": 0,
+                        "is_secret_channel": 0
+                    },
+                    "deal_events": [],
+                    "deal_events_killswitch": 0,
+                    "deals_available": {}
+                },
+                "deposit_required": 1,
+                "extrabed_available": 0,
+                "extrabed_available_amount": null,
+                "full_board": 0,
+                "genius_discount_percentage": 0,
+                "half_board": 0,
+                "incremental_price": [
+                    {
+                        "currency": "VND",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": 19047.62,
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                },
+                                {
+                                    "amount": 10476.19,
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 0,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                }
+                            ],
+                            "net_price": 190476.19
+                        },
+                        "price": "220000.00"
+                    },
+                    {
+                        "currency": "VND",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "38095.24",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                },
+                                {
+                                    "amount": "20952.38",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 0,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                }
+                            ],
+                            "net_price": "380952.38"
+                        },
+                        "price": "440000.00"
+                    }
+                ],
+                "is_domestic_rate": 0,
+                "is_flash_deal": 0,
+                "is_genius_deal": null,
+                "is_genius_discount_geo": 0,
+                "is_last_minute_deal": 0,
+                "is_secret_deal": 0,
+                "is_smart_deal": 0,
+                "loyalty_reward_data": {
+                    "reward_detail": []
+                },
+                "max_children_free": 2,
+                "max_children_free_age": 12,
+                "max_occupancy": 2,
+                "mealplan": "There is no meal option with this room.",
+                "min_price": {
+                    "currency": "VND",
+                    "extra_charges_breakdown": {
+                        "extra_charge": [
+                            {
+                                "amount": "19047.62",
+                                "charge_amount": "10.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": "0",
+                                "name": "VAT",
+                                "type": "VAT"
+                            },
+                            {
+                                "amount": "10476.19",
+                                "charge_amount": "5.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": "0",
+                                "name": "Service charge",
+                                "type": "SERVICECHARGE"
+                            }
+                        ],
+                        "net_price": "190476.19"
+                    },
+                    "price": "220000.00"
+                },
+                "must_reserve_free_parking": 0,
+                "name": "Standard Double Room - Non-refundable",
+                "name_without_policy": "Standard Double Room",
+                "number_of_bathrooms": 0,
+                "photos": [
+                    {
+                        "new_order": 0,
+                        "photo_id": 145239719,
+                        "ratio": 2.05714285714286,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/145239719.jpg?k=e43b57a6b97ebec5273592f353cb3e1d374ecb4dfeec9b5a42c75da573f780da&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/145/145239719.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/145/145239719.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/145/145239719.jpg"
+                    },
+                    {
+                        "new_order": 1,
+                        "photo_id": 145239681,
+                        "ratio": 2.05714285714286,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/145239681.jpg?k=7f42ef4317fa241e55ae9c37077dd6a96837b8c86d006b29bfaacf5613a2d094&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/145/145239681.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/145/145239681.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/145/145239681.jpg"
+                    },
+                    {
+                        "new_order": 2,
+                        "photo_id": 138027807,
+                        "ratio": 1.50030248033878,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/138027807.jpg?k=2063a5e65dc338ca2e0b3627d0bc0e8edb934833a87a43e06fe08fe43c692f29&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/138/138027807.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/138/138027807.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/138/138027807.jpg"
+                    },
+                    {
+                        "new_order": 3,
+                        "photo_id": 138014686,
+                        "ratio": 1.5,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/138014686.jpg?k=0f0715a8183f536a7e4ba404ed7955829f59a07eeb077b4e9225f9085d0130d3&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/138/138014686.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/138/138014686.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/138/138014686.jpg"
+                    }
+                ],
+                "pod_ios_migrate_policies_to_smp_fullon": 0,
+                "rack_rate": {
+                    "currency": "VND",
+                    "price": "0.00"
+                },
+                "rate_type_id": 0,
+                "refundable": 0,
+                "refundable_until": "",
+                "room_count": 4,
+                "room_highlights": [
+                    {
+                        "icon": "icon_wifi",
+                        "key": "wifi",
+                        "translated_name": "Free WiFi"
+                    },
+                    {
+                        "icon": "icon_bath",
+                        "id": 5,
+                        "translated_name": "Bathtub"
+                    },
+                    {
+                        "icon": "icon_airconditioning",
+                        "id": 11,
+                        "translated_name": "Air conditioning"
+                    },
+                    {
+                        "icon": "icon_private-shower",
+                        "id": 38,
+                        "translated_name": "Private bathroom"
+                    }
+                ],
+                "room_id": 30720003,
+                "room_name": "Standard Double Room",
+                "room_surface_in_feet2": 161.458656,
+                "room_surface_in_m2": "15.00",
+                "roomtype_id": 9,
+                "smoking": 2
+            },
+            {
+                "all_inclusive": 0,
+                "b_bsb_campaigns": [],
+                "b_bsd_reward_hp": null,
+                "babycots_available": 0,
+                "babycots_available_amount": null,
+                "bed_configurations": [
+                    {
+                        "bed_types": [
+                            {
+                                "bed_type": 2,
+                                "count": 1,
+                                "description": "131-150 cm wide",
+                                "description_imperial": "52-59 inches wide",
+                                "description_localized": null,
+                                "name": "Full bed",
+                                "name_with_count": "1 full bed"
+                            }
+                        ]
+                    }
+                ],
+                "block_id": "30720001_123745812_0_0_0",
+                "block_text": {
+                    "facilities": [
+                        "Minibar",
+                        "Shower",
+                        "Bathtub",
+                        "Safe",
+                        "Telephone",
+                        "Air conditioning",
+                        "Balcony",
+                        "Refrigerator",
+                        "Sitting area",
+                        "Free toiletries",
+                        "Toilet",
+                        "Private bathroom",
+                        "Flat-screen TV",
+                        "View",
+                        "Hardwood or parquet floors",
+                        "Electric kettle",
+                        "Wardrobe or closet",
+                        "Toilet paper",
+                        "Trash cans"
+                    ],
+                    "free_facilities": [],
+                    "policies": [
+                        {
+                            "class": "POLICY_CANCELLATION",
+                            "content": "You'll be charged 50% of the total price if you cancel your booking. If you don’t show up you will be charged the total price of the reservation."
+                        },
+                        {
+                            "class": "POLICY_PREPAY",
+                            "content": "You'll be charged a prepayment of 50% of the total price in the 14 days before arrival."
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_INCLUDED",
+                            "content": "10% VAT, 5% Service charge"
+                        },
+                        {
+                            "class": "POLICY_TITLE",
+                            "content": "Partially refundable"
+                        }
+                    ],
+                    "room_desc": "A larger room with city views."
+                },
+                "breakfast_included": 0,
+                "can_reserve_free_parking": 1,
+                "deals": {
+                    "deal_attributes": {
+                        "has_multiple_deals": 0,
+                        "has_secret_channel_option": 0,
+                        "is_secret_channel": 0
+                    },
+                    "deal_events": [],
+                    "deal_events_killswitch": 0,
+                    "deals_available": {}
+                },
+                "deposit_required": 1,
+                "extrabed_available": 0,
+                "extrabed_available_amount": null,
+                "full_board": 0,
+                "genius_discount_percentage": 0,
+                "half_board": 0,
+                "incremental_price": [
+                    {
+                        "currency": "VND",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": 21645.02,
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                },
+                                {
+                                    "amount": 11904.76,
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 0,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                }
+                            ],
+                            "net_price": 216450.22
+                        },
+                        "price": "250000.00"
+                    },
+                    {
+                        "currency": "VND",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "43290.04",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                },
+                                {
+                                    "amount": "23809.52",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 0,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                }
+                            ],
+                            "net_price": "432900.44"
+                        },
+                        "price": "500000.00"
+                    }
+                ],
+                "is_domestic_rate": 0,
+                "is_flash_deal": 0,
+                "is_genius_deal": null,
+                "is_genius_discount_geo": 0,
+                "is_last_minute_deal": 0,
+                "is_secret_deal": 0,
+                "is_smart_deal": 0,
+                "loyalty_reward_data": {
+                    "reward_detail": []
+                },
+                "max_children_free": 2,
+                "max_children_free_age": 12,
+                "max_occupancy": 2,
+                "mealplan": "There is no meal option with this room.",
+                "min_price": {
+                    "currency": "VND",
+                    "extra_charges_breakdown": {
+                        "extra_charge": [
+                            {
+                                "amount": "21645.02",
+                                "charge_amount": "10.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": "0",
+                                "name": "VAT",
+                                "type": "VAT"
+                            },
+                            {
+                                "amount": "11904.76",
+                                "charge_amount": "5.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": "0",
+                                "name": "Service charge",
+                                "type": "SERVICECHARGE"
+                            }
+                        ],
+                        "net_price": "216450.22"
+                    },
+                    "price": "250000.00"
+                },
+                "must_reserve_free_parking": 0,
+                "name": "Superior Double Room - Partially refundable",
+                "name_without_policy": "Superior Double Room",
+                "number_of_bathrooms": 0,
+                "photos": [
+                    {
+                        "new_order": 0,
+                        "photo_id": 144479570,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/144479570.jpg?k=396c3085bb3cae5d03e4676d641dfbed8a93e47582a2f618ea68d04d36dbde00&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/144/144479570.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/144/144479570.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/144/144479570.jpg"
+                    },
+                    {
+                        "new_order": 1,
+                        "photo_id": 120162565,
+                        "ratio": 1.73865698729583,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/120162565.jpg?k=ec6970806cf74637140c00c244037f086768ee620400fd1ecdafd68de081232b&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/120/120162565.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/120/120162565.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/120/120162565.jpg"
+                    },
+                    {
+                        "new_order": 2,
+                        "photo_id": 138014686,
+                        "ratio": 1.5,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/138014686.jpg?k=0f0715a8183f536a7e4ba404ed7955829f59a07eeb077b4e9225f9085d0130d3&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/138/138014686.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/138/138014686.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/138/138014686.jpg"
+                    },
+                    {
+                        "new_order": 3,
+                        "photo_id": 120162807,
+                        "ratio": 1.73865698729583,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/120162807.jpg?k=ec6c1552d7b45d674bbbba346bf5d39568373be96bc2d30c0f329a359dab365a&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/120/120162807.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/120/120162807.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/120/120162807.jpg"
+                    },
+                    {
+                        "new_order": 4,
+                        "photo_id": 138665873,
+                        "ratio": 1.50030248033878,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/138665873.jpg?k=8ff89c713e11555b87d4bd53280c980c6fb915929c1c3dbc602a26712976485f&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/138/138665873.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/138/138665873.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/138/138665873.jpg"
+                    }
+                ],
+                "pod_ios_migrate_policies_to_smp_fullon": 0,
+                "rack_rate": {
+                    "currency": "VND",
+                    "price": "0.00"
+                },
+                "rate_type_id": 0,
+                "refundable": 0,
+                "refundable_until": "",
+                "room_count": 2,
+                "room_highlights": [
+                    {
+                        "icon": "icon_wifi",
+                        "key": "wifi",
+                        "translated_name": "Free WiFi"
+                    },
+                    {
+                        "icon": "icon_bath",
+                        "id": 5,
+                        "translated_name": "Bathtub"
+                    },
+                    {
+                        "icon": "icon_airconditioning",
+                        "id": 11,
+                        "translated_name": "Air conditioning"
+                    },
+                    {
+                        "icon": "icon_private-shower",
+                        "id": 38,
+                        "translated_name": "Private bathroom"
+                    }
+                ],
+                "room_id": 30720001,
+                "room_name": "Superior Double Room",
+                "room_surface_in_feet2": 182.9864768,
+                "room_surface_in_m2": "17.00",
+                "roomtype_id": 9,
+                "smoking": 0
+            },
+            {
+                "all_inclusive": 0,
+                "b_bsb_campaigns": [],
+                "b_bsd_reward_hp": null,
+                "babycots_available": 0,
+                "babycots_available_amount": null,
+                "bed_configurations": [
+                    {
+                        "bed_types": [
+                            {
+                                "bed_type": 3,
+                                "count": 1,
+                                "description": "181-210 cm wide",
+                                "description_imperial": "71-82 inches wide",
+                                "description_localized": null,
+                                "name": "King bed",
+                                "name_with_count": "1 king bed"
+                            }
+                        ]
+                    }
+                ],
+                "block_id": "30720005_123745812_0_0_0",
+                "block_text": {
+                    "facilities": [
+                        "Minibar",
+                        "Shower",
+                        "Bathtub",
+                        "Safe",
+                        "Telephone",
+                        "Air conditioning",
+                        "Balcony",
+                        "Refrigerator",
+                        "Sitting area",
+                        "Free toiletries",
+                        "Toilet",
+                        "Private bathroom",
+                        "Flat-screen TV",
+                        "View",
+                        "Hardwood or parquet floors",
+                        "Electric kettle",
+                        "Wardrobe or closet",
+                        "Toilet paper",
+                        "Trash cans"
+                    ],
+                    "free_facilities": [],
+                    "policies": [
+                        {
+                            "class": "POLICY_CANCELLATION",
+                            "content": "You'll be charged 50% of the total price if you cancel your booking. If you don’t show up you will be charged the total price of the reservation."
+                        },
+                        {
+                            "class": "POLICY_PREPAY",
+                            "content": "You'll be charged a prepayment of 50% of the total price in the 14 days before arrival."
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_INCLUDED",
+                            "content": "10% VAT, 5% Service charge"
+                        },
+                        {
+                            "class": "POLICY_TITLE",
+                            "content": "Partially refundable"
+                        }
+                    ],
+                    "room_desc": "This room features a balcony with sea views."
+                },
+                "breakfast_included": 0,
+                "can_reserve_free_parking": 1,
+                "deals": {
+                    "deal_attributes": {
+                        "has_multiple_deals": 0,
+                        "has_secret_channel_option": 0,
+                        "is_secret_channel": 0
+                    },
+                    "deal_events": [],
+                    "deal_events_killswitch": 0,
+                    "deals_available": {}
+                },
+                "deposit_required": 1,
+                "extrabed_available": 0,
+                "extrabed_available_amount": null,
+                "full_board": 0,
+                "genius_discount_percentage": 0,
+                "half_board": 0,
+                "incremental_price": [
+                    {
+                        "currency": "VND",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": 24242.42,
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                },
+                                {
+                                    "amount": 13333.33,
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 0,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                }
+                            ],
+                            "net_price": 242424.24
+                        },
+                        "price": "280000.00"
+                    },
+                    {
+                        "currency": "VND",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "48484.84",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                },
+                                {
+                                    "amount": "26666.66",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 0,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                }
+                            ],
+                            "net_price": "484848.48"
+                        },
+                        "price": "560000.00"
+                    }
+                ],
+                "is_domestic_rate": 0,
+                "is_flash_deal": 0,
+                "is_genius_deal": null,
+                "is_genius_discount_geo": 0,
+                "is_last_minute_deal": 0,
+                "is_secret_deal": 0,
+                "is_smart_deal": 0,
+                "loyalty_reward_data": {
+                    "reward_detail": []
+                },
+                "max_children_free": 2,
+                "max_children_free_age": 12,
+                "max_occupancy": 2,
+                "mealplan": "There is no meal option with this room.",
+                "min_price": {
+                    "currency": "VND",
+                    "extra_charges_breakdown": {
+                        "extra_charge": [
+                            {
+                                "amount": "24242.42",
+                                "charge_amount": "10.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": "0",
+                                "name": "VAT",
+                                "type": "VAT"
+                            },
+                            {
+                                "amount": "13333.33",
+                                "charge_amount": "5.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": "0",
+                                "name": "Service charge",
+                                "type": "SERVICECHARGE"
+                            }
+                        ],
+                        "net_price": "242424.24"
+                    },
+                    "price": "280000.00"
+                },
+                "must_reserve_free_parking": 0,
+                "name": "Deluxe Double Room - Partially refundable",
+                "name_without_policy": "Deluxe Double Room",
+                "number_of_bathrooms": 0,
+                "photos": [
+                    {
+                        "new_order": 0,
+                        "photo_id": 121934399,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/121934399.jpg?k=f907b794e14c1140442940e25e5cb6693c60018ce174c1c1b021a89c94ef1820&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/121/121934399.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/121/121934399.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/121/121934399.jpg"
+                    },
+                    {
+                        "new_order": 1,
+                        "photo_id": 138027886,
+                        "ratio": 1.50032446463335,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/138027886.jpg?k=d47a66644dbf0891ed84a00fd8ca20b11899fece3162c0631317c63d5c3befc2&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/138/138027886.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/138/138027886.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/138/138027886.jpg"
+                    },
+                    {
+                        "new_order": 2,
+                        "photo_id": 138014686,
+                        "ratio": 1.5,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/138014686.jpg?k=0f0715a8183f536a7e4ba404ed7955829f59a07eeb077b4e9225f9085d0130d3&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/138/138014686.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/138/138014686.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/138/138014686.jpg"
+                    }
+                ],
+                "pod_ios_migrate_policies_to_smp_fullon": 0,
+                "rack_rate": {
+                    "currency": "VND",
+                    "price": "0.00"
+                },
+                "rate_type_id": 0,
+                "refundable": 0,
+                "refundable_until": "",
+                "room_count": 2,
+                "room_highlights": [
+                    {
+                        "icon": "icon_wifi",
+                        "key": "wifi",
+                        "translated_name": "Free WiFi"
+                    },
+                    {
+                        "icon": "icon_bath",
+                        "id": 5,
+                        "translated_name": "Bathtub"
+                    },
+                    {
+                        "icon": "icon_airconditioning",
+                        "id": 11,
+                        "translated_name": "Air conditioning"
+                    },
+                    {
+                        "icon": "icon_private-shower",
+                        "id": 38,
+                        "translated_name": "Private bathroom"
+                    }
+                ],
+                "room_id": 30720005,
+                "room_name": "Deluxe Double Room",
+                "room_surface_in_feet2": 215.278208,
+                "room_surface_in_m2": "20.00",
+                "roomtype_id": 9,
+                "smoking": 0
+            },
+            {
+                "all_inclusive": 0,
+                "b_bsb_campaigns": [],
+                "b_bsd_reward_hp": null,
+                "babycots_available": 0,
+                "babycots_available_amount": null,
+                "bed_configurations": [
+                    {
+                        "bed_types": [
+                            {
+                                "bed_type": 1,
+                                "count": 1,
+                                "description": "90-130 cm wide",
+                                "description_imperial": "35-51 inches wide",
+                                "description_localized": null,
+                                "name": "Twin bed",
+                                "name_with_count": "1 twin bed"
+                            },
+                            {
+                                "bed_type": 6,
+                                "count": 1,
+                                "description": "151-180 cm wide",
+                                "description_imperial": "60-70 inches wide",
+                                "description_localized": null,
+                                "name": "Queen bed",
+                                "name_with_count": "1 queen bed"
+                            }
+                        ]
+                    }
+                ],
+                "biggest_room": 1,
+                "block_id": "30720006_123745812_0_0_0",
+                "block_text": {
+                    "facilities": [
+                        "Minibar",
+                        "Shower",
+                        "Bathtub",
+                        "Safe",
+                        "Telephone",
+                        "Air conditioning",
+                        "Balcony",
+                        "Refrigerator",
+                        "Sitting area",
+                        "Free toiletries",
+                        "Toilet",
+                        "Private bathroom",
+                        "Flat-screen TV",
+                        "View",
+                        "Hardwood or parquet floors",
+                        "Dining area",
+                        "Electric kettle",
+                        "Wardrobe or closet",
+                        "Toilet paper",
+                        "Trash cans"
+                    ],
+                    "free_facilities": [],
+                    "policies": [
+                        {
+                            "class": "POLICY_CANCELLATION",
+                            "content": "You'll be charged 50% of the total price if you cancel your booking. If you don’t show up you will be charged the total price of the reservation."
+                        },
+                        {
+                            "class": "POLICY_PREPAY",
+                            "content": "You'll be charged a prepayment of 50% of the total price in the 14 days before arrival."
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_INCLUDED",
+                            "content": "10% VAT, 5% Service charge"
+                        },
+                        {
+                            "class": "POLICY_TITLE",
+                            "content": "Partially refundable"
+                        }
+                    ],
+                    "room_desc": "A spacious room for 3 with a small dining area."
+                },
+                "breakfast_included": 0,
+                "can_reserve_free_parking": 1,
+                "deals": {
+                    "deal_attributes": {
+                        "has_multiple_deals": 0,
+                        "has_secret_channel_option": 0,
+                        "is_secret_channel": 0
+                    },
+                    "deal_events": [],
+                    "deal_events_killswitch": 0,
+                    "deals_available": {}
+                },
+                "deposit_required": 1,
+                "extrabed_available": 0,
+                "extrabed_available_amount": null,
+                "full_board": 0,
+                "genius_discount_percentage": 0,
+                "half_board": 0,
+                "incremental_price": [
+                    {
+                        "currency": "VND",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": 36363.64,
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                },
+                                {
+                                    "amount": "20000.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 0,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                }
+                            ],
+                            "net_price": 363636.36
+                        },
+                        "price": "420000.00"
+                    },
+                    {
+                        "currency": "VND",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "72727.28",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                },
+                                {
+                                    "amount": "40000.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 0,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                }
+                            ],
+                            "net_price": "727272.72"
+                        },
+                        "price": "840000.00"
+                    }
+                ],
+                "is_domestic_rate": 0,
+                "is_flash_deal": 0,
+                "is_genius_deal": null,
+                "is_genius_discount_geo": 0,
+                "is_last_minute_deal": 0,
+                "is_secret_deal": 0,
+                "is_smart_deal": 0,
+                "loyalty_reward_data": {
+                    "reward_detail": []
+                },
+                "max_children_free": 2,
+                "max_children_free_age": 12,
+                "max_occupancy": 3,
+                "mealplan": "There is no meal option with this room.",
+                "min_price": {
+                    "currency": "VND",
+                    "extra_charges_breakdown": {
+                        "extra_charge": [
+                            {
+                                "amount": "36363.64",
+                                "charge_amount": "10.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": "0",
+                                "name": "VAT",
+                                "type": "VAT"
+                            },
+                            {
+                                "amount": "20000.00",
+                                "charge_amount": "5.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": "0",
+                                "name": "Service charge",
+                                "type": "SERVICECHARGE"
+                            }
+                        ],
+                        "net_price": "363636.36"
+                    },
+                    "price": "420000.00"
+                },
+                "must_reserve_free_parking": 0,
+                "name": "Deluxe Triple Room - Partially refundable",
+                "name_without_policy": "Deluxe Triple Room",
+                "number_of_bathrooms": 0,
+                "photos": [
+                    {
+                        "new_order": 0,
+                        "photo_id": 120163466,
+                        "ratio": 1.50030248033878,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/120163466.jpg?k=61b188bca28155c3137da8a4fa6fb7d4b3caddd9fc2fd699a6a85d147c892ec6&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/120/120163466.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/120/120163466.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/120/120163466.jpg"
+                    },
+                    {
+                        "new_order": 1,
+                        "photo_id": 120163334,
+                        "ratio": 1.50030248033878,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/120163334.jpg?k=e197fe7a2ac5766bc91d765eace1a135c334036d54d7cae006991f1140acff9c&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/120/120163334.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/120/120163334.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/120/120163334.jpg"
+                    },
+                    {
+                        "new_order": 2,
+                        "photo_id": 138027854,
+                        "ratio": 1.50030248033878,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/138027854.jpg?k=ee299cab52be76a61eeb8c04b2186bd9500fdfebe8c3b3325cb731fc390d245f&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/138/138027854.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/138/138027854.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/138/138027854.jpg"
+                    },
+                    {
+                        "new_order": 3,
+                        "photo_id": 138027826,
+                        "ratio": 1.50031625553447,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/138027826.jpg?k=803844e98c7d336eaccf29a20156589207069a81323f3a14b8123a7755bc0453&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/138/138027826.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/138/138027826.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/138/138027826.jpg"
+                    },
+                    {
+                        "new_order": 4,
+                        "photo_id": 138014686,
+                        "ratio": 1.5,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/138014686.jpg?k=0f0715a8183f536a7e4ba404ed7955829f59a07eeb077b4e9225f9085d0130d3&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/138/138014686.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/138/138014686.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/138/138014686.jpg"
+                    }
+                ],
+                "pod_ios_migrate_policies_to_smp_fullon": 0,
+                "rack_rate": {
+                    "currency": "VND",
+                    "price": "0.00"
+                },
+                "rate_type_id": 0,
+                "refundable": 0,
+                "refundable_until": "",
+                "room_count": 2,
+                "room_highlights": [
+                    {
+                        "icon": "icon_wifi",
+                        "key": "wifi",
+                        "translated_name": "Free WiFi"
+                    },
+                    {
+                        "icon": "icon_bath",
+                        "id": 5,
+                        "translated_name": "Bathtub"
+                    },
+                    {
+                        "icon": "icon_airconditioning",
+                        "id": 11,
+                        "translated_name": "Air conditioning"
+                    },
+                    {
+                        "icon": "icon_private-shower",
+                        "id": 38,
+                        "translated_name": "Private bathroom"
+                    }
+                ],
+                "room_id": 30720006,
+                "room_name": "Deluxe Triple Room",
+                "room_surface_in_feet2": 333.6812224,
+                "room_surface_in_m2": "31.00",
+                "roomtype_id": 7,
+                "smoking": 0
+            }
+        ],
+        "booking_home": {},
+        "breakfast_review_score": {
+            "rating": 0,
+            "review_count": 0,
+            "review_number": 0,
+            "review_score": 0,
+            "review_score_word": "",
+            "review_snippet": ""
+        },
+        "cc_required": "1",
+        "check_only_x_left": 1,
+        "city_trans": "Nha Trang",
+        "covid_banner_exp_variant": 1,
+        "cvc_required": "1",
+        "default_language": "vi",
+        "default_wishlist_name": "Nha Trang",
+        "departure_date": "2021-05-11",
+        "distance_to_cc": 0.744552807762543,
+        "duplicate_rates_removed": 0,
+        "family_facilities": [
+            "Babysitting/Child services"
+        ],
+        "free_cancellation_recommendation": {
+            "action_modal": {
+                "details": "For bookings made on or after April 6, 2020, be sure to consider the risk of the coronavirus (COVID-19) and associated government measures. If you don’t book a flexible rate, you may not be entitled to a refund. Your cancellation request will be handled by the property, based on your chosen policy and consumer law where applicable. During times of uncertainty, we recommend booking an option with free cancellation. If your plans change, you can cancel free of charge until free cancellation expires.",
+                "title": "Check your booking conditions"
+            },
+            "banner": {
+                "action_text": "Read more",
+                "subtitle": "We recommend booking an option with free cancellation in case your travel plans change.",
+                "title": "As of April 6, 2020, your chosen cancellation policy will apply, regardless of the coronavirus."
+            }
+        },
+        "hotel_facilities": "6,89,305,17,22,109,44,163,21,8,75,2,47,140,23,14,48,78,16,160,51,219,5,161,46,20,96,53,107",
+        "hotel_id": 307200,
+        "hotel_include_breakfast": 0,
+        "hotel_name": "Viet Sky Hotel",
+        "hotel_name_trans": "",
+        "hotel_text": {
+            "important_information": "",
+            "policies": [
+                {
+                    "class": "POLICY_CANCELLATION",
+                    "content": "You can cancel free of charge until 7 days before arrival. You'll be charged the total price of the reservation if you cancel in the 7 days before arrival. If you don’t show up you will be charged the total price of the reservation."
+                },
+                {
+                    "class": "POLICY_CHILDREN",
+                    "content": "All children are welcome. Up to two children under 12 years stay free of charge when using existing beds.\nAll older children or adults are charged  VND 8 per night for extra beds.\nThere is no capacity for extra beds in the room.\nThe maximum number of total guests in a room is 5.\nThere is no capacity for cribs in the room.\nAny type of extra bed is upon request and needs to be confirmed by management.\nAdditional fees are not calculated automatically in the total cost and will have to be paid for separately during your stay.\n"
+                },
+                {
+                    "class": "POLICY_HOTEL_INTERNET",
+                    "content": "WiFi is available in all areas and is free of charge. "
+                },
+                {
+                    "class": "POLICY_HOTEL_PARKING",
+                    "content": "Free private parking is available  on site (reservation is not needed). "
+                },
+                {
+                    "class": "POLICY_HOTEL_PETS",
+                    "content": "Pets are not allowed. "
+                },
+                {
+                    "class": "POLICY_PREPAY",
+                    "content": "No prepayment is needed."
+                },
+                {
+                    "class": "POLICY_PREAUTHORIZE",
+                    "content": "The property reserves the right to pre-authorize credit cards prior to arrival."
+                },
+                {
+                    "class": "POLICY_HOTEL_EXTRACHARGES",
+                    "content": "10 % VAT is included. 5 % Service charge is included. A City tax is not applicable.",
+                    "items": [
+                        "10 % VAT is included.",
+                        "5 % Service charge is included.",
+                        "A City tax is not applicable."
+                    ]
+                }
+            ]
+        },
+        "info_banners": [
+            {
+                "collapsible": 1,
+                "dismissable": 0,
+                "id": "coronavirus",
+                "is_default_collapsed": 1,
+                "messages": [
+                    "Check for travel restrictions. Travel might only be permitted for certain purposes, and touristic travel in particular may not be allowed."
+                ],
+                "position_to_inject": 0,
+                "primary_action": {
+                    "action": "open-page",
+                    "action_context": "covid19-faq",
+                    "text": "Read more"
+                },
+                "priority": 100,
+                "secondary_action": null,
+                "show_after_dismissed": 1,
+                "show_after_dismissed_time": 24,
+                "title": "Coronavirus (COVID-19) support",
+                "type": "banner"
+            }
+        ],
+        "is_closed": 0,
+        "is_cpv2_property": 1,
+        "is_crimea": 0,
+        "is_hotel_ctrip": 0,
+        "is_preferred": 0,
+        "is_preferred_plus": 0,
+        "languages_spoken": {
+            "languagecode": [
+                "vi",
+                "ru",
+                "en-gb"
+            ]
+        },
+        "last_matching_block_index": 0,
+        "last_reservation": {
+            "country": null,
+            "countrycode": null,
+            "time": ""
+        },
+        "latitude": 12.2400416,
+        "longitude": 109.1885072,
+        "max_rooms_in_reservation": 10,
+        "only_x_left": {
+            "post_select": {
+                "30720001_123745812_0_0_0": "You selected the last 2 rooms like this left on Booking.com!",
+                "30720003_123745816_0_0_0": "You selected the last 2 rooms like this left on Booking.com!",
+                "30720005_123745812_0_0_0": "You selected the last 2 rooms like this left on Booking.com!",
+                "30720006_123745812_0_0_0": "You selected the last 2 rooms like this left on Booking.com!"
+            },
+            "room_page": {
+                "30720001_123745812_0_0_0": "Only 2 rooms left on Booking.com",
+                "30720003_123745816_0_0_0": "Only 2 rooms left on Booking.com",
+                "30720005_123745812_0_0_0": "Only 2 rooms left on Booking.com",
+                "30720006_123745812_0_0_0": "Only 2 rooms left on Booking.com"
+            },
+            "rooms_list": {
+                "30720001_123745812_0_0_0": "Only 2 rooms left on Booking.com",
+                "30720003_123745816_0_0_0": "Only 2 rooms left on Booking.com",
+                "30720005_123745812_0_0_0": "Only 2 rooms left on Booking.com",
+                "30720006_123745812_0_0_0": "Only 2 rooms left on Booking.com"
+            }
+        },
+        "plq_sensitivity": "",
+        "preferences": [],
+        "room_recommendation": [
+            {
+                "adults": 1,
+                "babies": 0,
+                "block_id": "30720003_123745816_0_0_0",
+                "children": 0,
+                "number_of_extra_beds": 0,
+                "total_extra_bed_price": 0,
+                "total_extra_bed_price_in_hotel_currency": 0
+            }
+        ],
+        "soldout_rooms": [],
+        "spoken_languages": [
+            "vi",
+            "ru",
+            "en-gb"
+        ],
+        "timezone": "Asia/Ho_Chi_Minh",
+        "top_ufi_benefits": [
+            {
+                "icon": "icon_wifi",
+                "translated_name": "WiFi"
+            },
+            {
+                "icon": "icon_shuttle",
+                "translated_name": "Airport shuttle"
+            },
+            {
+                "icon": "icon_nonsmoking",
+                "translated_name": "Non-smoking rooms"
+            },
+            {
+                "icon": "icon_parkingfee",
+                "translated_name": "Parking"
+            },
+            {
+                "icon": "icon_concierge",
+                "translated_name": "Room service"
+            },
+            {
+                "icon": "icon_garden",
+                "translated_name": "Garden"
+            }
+        ],
+        "total_blocks": 4,
+        "use_new_bui_icon_highlight": 0,
+        "wifi_review_score": {
+            "rating": "10.0"
+        },
+        "wl_dest_id": "city::-3723998"
+    }
+]

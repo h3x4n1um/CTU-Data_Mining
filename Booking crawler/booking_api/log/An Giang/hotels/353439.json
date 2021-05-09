@@ -1,0 +1,909 @@
+[
+    {
+        "address_required": 0,
+        "address_trans": "",
+        "arrival_date": "2021-05-08",
+        "availability_blackout_applied": 0,
+        "available_deal_descriptions": [],
+        "b_legal_use_neutral_color_for_persuasion_legal": 0,
+        "b_sca_flow_property_user_ip": 0,
+        "block": [
+            {
+                "all_inclusive": 0,
+                "b_bsb_campaigns": [],
+                "b_bsd_reward_hp": null,
+                "babycots_available": 0,
+                "babycots_available_amount": null,
+                "bed_configurations": [
+                    {
+                        "bed_types": [
+                            {
+                                "bed_type": 2,
+                                "count": 1,
+                                "description": "131-150 cm wide",
+                                "description_imperial": "52-59 inches wide",
+                                "description_localized": null,
+                                "name": "Full bed",
+                                "name_with_count": "1 full bed"
+                            }
+                        ]
+                    }
+                ],
+                "block_id": "35343901_105545762_0_1_0",
+                "block_text": {
+                    "facilities": [
+                        "Shower",
+                        "Telephone",
+                        "Air conditioning",
+                        "Hairdryer",
+                        "Refrigerator",
+                        "Free toiletries",
+                        "Toilet",
+                        "Private bathroom",
+                        "Cable channels",
+                        "Flat-screen TV",
+                        "Wake-up service",
+                        "Air purifiers installed",
+                        "Single-room AC for guest accommodation",
+                        "Hand sanitizer"
+                    ],
+                    "free_facilities": [],
+                    "policies": [
+                        {
+                            "class": "POLICY_CANCELLATION",
+                            "content": "Note that if canceled, modified, or in case of no-show, the total price of the reservation will be charged."
+                        },
+                        {
+                            "class": "POLICY_PREPAY",
+                            "content": "No prepayment is needed."
+                        },
+                        {
+                            "class": "POLICY_HOTEL_MEALPLAN",
+                            "content": "Continental breakfast included",
+                            "mealplan_vector": "1"
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_EXCLUDED",
+                            "content": "13% VAT, 5% City tax"
+                        },
+                        {
+                            "class": "POLICY_TITLE",
+                            "content": "General"
+                        }
+                    ],
+                    "room_desc": "This simple, air-conditioned room includes one double bed, free Wi-Fi, flat-screen cable TV and a mini fridge. The private bathroom has a hairdryer and toiletries."
+                },
+                "breakfast_included": 1,
+                "can_reserve_free_parking": 1,
+                "deals": {
+                    "deal_attributes": {
+                        "has_multiple_deals": 0,
+                        "has_secret_channel_option": 0,
+                        "is_secret_channel": 0
+                    },
+                    "deal_events": [],
+                    "deal_events_killswitch": 0,
+                    "deals_available": {}
+                },
+                "deposit_required": 0,
+                "extrabed_available": 0,
+                "extrabed_available_amount": null,
+                "full_board": 0,
+                "genius_discount_percentage": 0,
+                "half_board": 0,
+                "incremental_price": [
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": 1.88,
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "City tax",
+                                    "type": "CITYTAX"
+                                },
+                                {
+                                    "amount": 4.89,
+                                    "charge_amount": "13.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": 37.59
+                        },
+                        "price": 37.59
+                    },
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "3.76",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "City tax",
+                                    "type": "CITYTAX"
+                                },
+                                {
+                                    "amount": "9.78",
+                                    "charge_amount": "13.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": 75.18
+                        },
+                        "price": 75.18
+                    },
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "5.64",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "City tax",
+                                    "type": "CITYTAX"
+                                },
+                                {
+                                    "amount": "14.67",
+                                    "charge_amount": "13.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": 112.77
+                        },
+                        "price": 112.77
+                    },
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "7.52",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "City tax",
+                                    "type": "CITYTAX"
+                                },
+                                {
+                                    "amount": "19.56",
+                                    "charge_amount": "13.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": 150.36
+                        },
+                        "price": 150.36
+                    },
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "9.40",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "City tax",
+                                    "type": "CITYTAX"
+                                },
+                                {
+                                    "amount": "24.45",
+                                    "charge_amount": "13.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": 187.95
+                        },
+                        "price": 187.95
+                    },
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "11.28",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "City tax",
+                                    "type": "CITYTAX"
+                                },
+                                {
+                                    "amount": "29.34",
+                                    "charge_amount": "13.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": "225.54"
+                        },
+                        "price": "225.54"
+                    }
+                ],
+                "is_domestic_rate": 0,
+                "is_flash_deal": 0,
+                "is_genius_deal": null,
+                "is_genius_discount_geo": 0,
+                "is_last_minute_deal": 0,
+                "is_secret_deal": 0,
+                "is_smart_deal": 0,
+                "loyalty_reward_data": {
+                    "reward_detail": []
+                },
+                "max_children_free": 0,
+                "max_children_free_age": 0,
+                "max_occupancy": 1,
+                "mealplan": "Continental breakfast is included in the room rate.",
+                "min_price": {
+                    "currency": "USD",
+                    "extra_charges_breakdown": {
+                        "extra_charge": [
+                            {
+                                "amount": "1.88",
+                                "charge_amount": "5.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "1",
+                                "name": "City tax",
+                                "type": "CITYTAX"
+                            },
+                            {
+                                "amount": "4.89",
+                                "charge_amount": "13.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "1",
+                                "name": "VAT",
+                                "type": "VAT"
+                            }
+                        ],
+                        "net_price": "37.59"
+                    },
+                    "price": "37.59"
+                },
+                "must_reserve_free_parking": 0,
+                "name": "Single Room",
+                "name_without_policy": "Single Room",
+                "number_of_bathrooms": 0,
+                "photos": [
+                    {
+                        "new_order": 0,
+                        "photo_id": 267790813,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/267790813.jpg?k=855ed1c4759e6c7e0891388d7852c6ba08d3a0203f13df6d086b8da86e5ea0ab&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/267/267790813.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/267/267790813.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/267/267790813.jpg"
+                    },
+                    {
+                        "new_order": 1,
+                        "photo_id": 267790822,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/267790822.jpg?k=cbf0512d8d7eacf144bf8faed05bbc8a386335b623a06351d316e6a96afca0a0&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/267/267790822.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/267/267790822.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/267/267790822.jpg"
+                    },
+                    {
+                        "new_order": 2,
+                        "photo_id": 6477698,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/6477698.jpg?k=74aca593ef51b2b5e4b390a1d0aced0788d21730ec50ab3afa375819311b3808&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/647/6477698.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/647/6477698.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/647/6477698.jpg"
+                    },
+                    {
+                        "new_order": 3,
+                        "photo_id": 209962418,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/209962418.jpg?k=f3535bb121ebbe34e2fc0d1c1eff7999c0e3a834587e0bea7a2aa6635de156fb&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/209/209962418.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/209/209962418.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/209/209962418.jpg"
+                    }
+                ],
+                "pod_ios_migrate_policies_to_smp_fullon": 0,
+                "rack_rate": {
+                    "currency": "USD",
+                    "price": "0.00"
+                },
+                "rate_type_id": 0,
+                "refundable": 0,
+                "refundable_until": "",
+                "room_count": 12,
+                "room_highlights": [
+                    {
+                        "icon": "icon_wifi",
+                        "key": "wifi",
+                        "translated_name": "Free WiFi"
+                    },
+                    {
+                        "icon": "icon_airconditioning",
+                        "id": 11,
+                        "translated_name": "Air conditioning"
+                    },
+                    {
+                        "icon": "icon_private-shower",
+                        "id": 38,
+                        "translated_name": "Private bathroom"
+                    },
+                    {
+                        "icon": "icon_flattv",
+                        "id": 75,
+                        "translated_name": "Flat-screen TV"
+                    }
+                ],
+                "room_id": 35343901,
+                "room_name": "Single Room",
+                "room_surface_in_feet2": 172.2225664,
+                "room_surface_in_m2": "16.00",
+                "roomtype_id": 10,
+                "smoking": 2
+            },
+            {
+                "all_inclusive": 0,
+                "b_bsb_campaigns": [],
+                "b_bsd_reward_hp": null,
+                "babycots_available": 0,
+                "babycots_available_amount": null,
+                "bed_configurations": [
+                    {
+                        "bed_types": [
+                            {
+                                "bed_type": 2,
+                                "count": 2,
+                                "description": "131-150 cm wide",
+                                "description_imperial": "52-59 inches wide",
+                                "description_localized": null,
+                                "name": "Full beds",
+                                "name_with_count": "2 full beds"
+                            }
+                        ]
+                    }
+                ],
+                "block_id": "35343902_105545762_0_1_0",
+                "block_text": {
+                    "facilities": [
+                        "Shower",
+                        "Telephone",
+                        "Air conditioning",
+                        "Hairdryer",
+                        "Refrigerator",
+                        "Free toiletries",
+                        "Toilet",
+                        "Private bathroom",
+                        "Cable channels",
+                        "Flat-screen TV",
+                        "Air purifiers installed",
+                        "Single-room AC for guest accommodation",
+                        "Hand sanitizer"
+                    ],
+                    "free_facilities": [],
+                    "policies": [
+                        {
+                            "class": "POLICY_CANCELLATION",
+                            "content": "Note that if canceled, modified, or in case of no-show, the total price of the reservation will be charged."
+                        },
+                        {
+                            "class": "POLICY_PREPAY",
+                            "content": "No prepayment is needed."
+                        },
+                        {
+                            "class": "POLICY_HOTEL_MEALPLAN",
+                            "content": "Continental breakfast included",
+                            "mealplan_vector": "1"
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_EXCLUDED",
+                            "content": "13% VAT, 5% City tax"
+                        },
+                        {
+                            "class": "POLICY_TITLE",
+                            "content": "General"
+                        }
+                    ],
+                    "room_desc": "This simple, air-conditioned room includes free Wi-Fi, flat-screen cable TV and a mini fridge. The private bathroom has a hairdryer and toiletries."
+                },
+                "breakfast_included": 1,
+                "can_reserve_free_parking": 1,
+                "deals": {
+                    "deal_attributes": {
+                        "has_multiple_deals": 0,
+                        "has_secret_channel_option": 0,
+                        "is_secret_channel": 0
+                    },
+                    "deal_events": [],
+                    "deal_events_killswitch": 0,
+                    "deals_available": {}
+                },
+                "deposit_required": 0,
+                "extrabed_available": 0,
+                "extrabed_available_amount": null,
+                "full_board": 0,
+                "genius_discount_percentage": 0,
+                "half_board": 0,
+                "incremental_price": [
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": 6.11,
+                                    "charge_amount": "13.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                },
+                                {
+                                    "amount": 2.35,
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "City tax",
+                                    "type": "CITYTAX"
+                                }
+                            ],
+                            "net_price": 46.99
+                        },
+                        "price": 46.99
+                    },
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "12.22",
+                                    "charge_amount": "13.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                },
+                                {
+                                    "amount": "4.70",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "City tax",
+                                    "type": "CITYTAX"
+                                }
+                            ],
+                            "net_price": 93.98
+                        },
+                        "price": 93.98
+                    },
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "18.33",
+                                    "charge_amount": "13.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                },
+                                {
+                                    "amount": "7.05",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "City tax",
+                                    "type": "CITYTAX"
+                                }
+                            ],
+                            "net_price": 140.97
+                        },
+                        "price": 140.97
+                    },
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "24.44",
+                                    "charge_amount": "13.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                },
+                                {
+                                    "amount": "9.40",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "City tax",
+                                    "type": "CITYTAX"
+                                }
+                            ],
+                            "net_price": "187.96"
+                        },
+                        "price": "187.96"
+                    }
+                ],
+                "is_domestic_rate": 0,
+                "is_flash_deal": 0,
+                "is_genius_deal": null,
+                "is_genius_discount_geo": 0,
+                "is_last_minute_deal": 0,
+                "is_secret_deal": 0,
+                "is_smart_deal": 0,
+                "loyalty_reward_data": {
+                    "reward_detail": []
+                },
+                "max_children_free": 1,
+                "max_children_free_age": 0,
+                "max_occupancy": 2,
+                "mealplan": "Continental breakfast is included in the room rate.",
+                "min_price": {
+                    "currency": "USD",
+                    "extra_charges_breakdown": {
+                        "extra_charge": [
+                            {
+                                "amount": "6.11",
+                                "charge_amount": "13.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "1",
+                                "name": "VAT",
+                                "type": "VAT"
+                            },
+                            {
+                                "amount": "2.35",
+                                "charge_amount": "5.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "1",
+                                "name": "City tax",
+                                "type": "CITYTAX"
+                            }
+                        ],
+                        "net_price": "46.99"
+                    },
+                    "price": "46.99"
+                },
+                "must_reserve_free_parking": 0,
+                "name": "Twin Room",
+                "name_without_policy": "Twin Room",
+                "number_of_bathrooms": 0,
+                "photos": [
+                    {
+                        "new_order": 0,
+                        "photo_id": 6477698,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/6477698.jpg?k=74aca593ef51b2b5e4b390a1d0aced0788d21730ec50ab3afa375819311b3808&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/647/6477698.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/647/6477698.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/647/6477698.jpg"
+                    },
+                    {
+                        "new_order": 1,
+                        "photo_id": 267791602,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/267791602.jpg?k=ea6f9c3686e265f9bdde08b1b4d5202bde95d693f0a8e0a8c5d40283415a18a7&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/267/267791602.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/267/267791602.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/267/267791602.jpg"
+                    },
+                    {
+                        "new_order": 2,
+                        "photo_id": 267790963,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/267790963.jpg?k=00f0fb9a0deb9b02fe24c2583e418d055411a7173a93ce2f91f7304b054528a5&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/267/267790963.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/267/267790963.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/267/267790963.jpg"
+                    },
+                    {
+                        "new_order": 3,
+                        "photo_id": 6477696,
+                        "ratio": 0.75,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/6477696.jpg?k=8521c838092dd194560eb92a876bced4d0a664c312b2797a3200043ef3ec994a&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/647/6477696.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/647/6477696.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/647/6477696.jpg"
+                    },
+                    {
+                        "new_order": 4,
+                        "photo_id": 209962413,
+                        "ratio": 0.75,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/209962413.jpg?k=adb1447b29e287eeaee32e67a2916b592241facd93eb13999bb7f80488dcab44&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/209/209962413.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/209/209962413.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/209/209962413.jpg"
+                    }
+                ],
+                "pod_ios_migrate_policies_to_smp_fullon": 0,
+                "rack_rate": {
+                    "currency": "USD",
+                    "price": "0.00"
+                },
+                "rate_type_id": 0,
+                "refundable": 0,
+                "refundable_until": "",
+                "room_count": 4,
+                "room_highlights": [
+                    {
+                        "icon": "icon_wifi",
+                        "key": "wifi",
+                        "translated_name": "Free WiFi"
+                    },
+                    {
+                        "icon": "icon_airconditioning",
+                        "id": 11,
+                        "translated_name": "Air conditioning"
+                    },
+                    {
+                        "icon": "icon_private-shower",
+                        "id": 38,
+                        "translated_name": "Private bathroom"
+                    },
+                    {
+                        "icon": "icon_flattv",
+                        "id": 75,
+                        "translated_name": "Flat-screen TV"
+                    }
+                ],
+                "room_id": 35343902,
+                "room_name": "Twin Room",
+                "room_surface_in_feet2": 172.2225664,
+                "room_surface_in_m2": "16.00",
+                "roomtype_id": 8,
+                "smoking": 2
+            }
+        ],
+        "booking_home": {},
+        "breakfast_review_score": {
+            "rating": 0,
+            "review_count": 0,
+            "review_number": 0,
+            "review_score": 0,
+            "review_score_word": "",
+            "review_snippet": ""
+        },
+        "cc_required": "0",
+        "check_only_x_left": 1,
+        "city_trans": "San Salvador",
+        "covid_banner_exp_variant": 2,
+        "cvc_required": "0",
+        "default_language": "en-gb",
+        "default_wishlist_name": "San Salvador",
+        "departure_date": "2021-05-09",
+        "distance_to_cc": 3.284931872646,
+        "domestic_no_cc": 0,
+        "duplicate_rates_removed": 0,
+        "family_facilities": [
+            "Family rooms"
+        ],
+        "free_cancellation_recommendation": {
+            "action_modal": {
+                "details": "For bookings made on or after April 6, 2020, be sure to consider the risk of the coronavirus (COVID-19) and associated government measures. If you don’t book a flexible rate, you may not be entitled to a refund. Your cancellation request will be handled by the property, based on your chosen policy and consumer law where applicable. During times of uncertainty, we recommend booking an option with free cancellation. If your plans change, you can cancel free of charge until free cancellation expires.",
+                "title": "Check your booking conditions"
+            },
+            "banner": {
+                "action_text": "Read more",
+                "subtitle": "We recommend booking an option with free cancellation in case your travel plans change.",
+                "title": "As of April 6, 2020, your chosen cancellation policy will apply, regardless of the coronavirus."
+            }
+        },
+        "hotel_facilities": "467,109,20,51,81,456,47,486,453,488,458,450,161,304,461,46,78,55,96,28,449,459,462,452,107,485,455,14,451,44,2,163,160,460,468,454,457,484,129,8,22",
+        "hotel_id": 353439,
+        "hotel_include_breakfast": 1,
+        "hotel_name": "Hotel Villa Serena Escalon",
+        "hotel_name_trans": "",
+        "hotel_text": {
+            "important_information": "",
+            "policies": [
+                {
+                    "class": "POLICY_CANCELLATION",
+                    "content": "You can cancel free of charge until 2 days before arrival. You'll be charged the total price of the reservation if you cancel in the 2 days before arrival."
+                },
+                {
+                    "class": "POLICY_CHILDREN",
+                    "content": "All children are welcome. Up to two children under 13 years stay free of charge when using existing beds.\nThere is no capacity for extra beds in the room.\nThe maximum number of total guests in a room is 3.\nThere is no capacity for cribs in the room.\n"
+                },
+                {
+                    "class": "POLICY_HOTEL_INTERNET",
+                    "content": "WiFi is available in all areas and is free of charge. "
+                },
+                {
+                    "class": "POLICY_HOTEL_PARKING",
+                    "content": "Free private parking is available  on site (reservation is not needed). "
+                },
+                {
+                    "class": "POLICY_HOTEL_PETS",
+                    "content": "Pets are not allowed. "
+                },
+                {
+                    "class": "POLICY_PREPAY",
+                    "content": "No prepayment is needed."
+                },
+                {
+                    "class": "POLICY_PREAUTHORIZE",
+                    "content": "The property reserves the right to pre-authorize credit cards prior to arrival."
+                },
+                {
+                    "class": "POLICY_HOTEL_EXTRACHARGES",
+                    "content": "13 % VAT is excluded. 5 % City tax is excluded. A Service charge is not applicable.",
+                    "items": [
+                        "13 % VAT is excluded.",
+                        "5 % City tax is excluded.",
+                        "A Service charge is not applicable."
+                    ]
+                }
+            ]
+        },
+        "info_banners": [
+            {
+                "collapsible": 1,
+                "dismissable": 0,
+                "id": "coronavirus",
+                "is_default_collapsed": 1,
+                "messages": [
+                    "Check for travel restrictions. Travel might only be permitted for certain purposes, and touristic travel in particular may not be allowed."
+                ],
+                "position_to_inject": 0,
+                "primary_action": {
+                    "action": "open-page",
+                    "action_context": "covid19-faq",
+                    "text": "Read more"
+                },
+                "priority": 100,
+                "secondary_action": null,
+                "show_after_dismissed": 1,
+                "show_after_dismissed_time": 24,
+                "title": "Coronavirus (COVID-19) support",
+                "type": "banner"
+            }
+        ],
+        "is_closed": 0,
+        "is_cpv2_property": 1,
+        "is_crimea": 0,
+        "is_hotel_ctrip": 0,
+        "is_preferred": 1,
+        "is_preferred_plus": 0,
+        "languages_spoken": {
+            "languagecode": [
+                "es"
+            ]
+        },
+        "last_matching_block_index": 0,
+        "last_reservation": {
+            "country": null,
+            "countrycode": null,
+            "time": ""
+        },
+        "latitude": 13.7024367461325,
+        "longitude": -89.22303378582,
+        "max_rooms_in_reservation": 10,
+        "only_x_left": {
+            "post_select": {
+                "35343902_105545762_0_1_0": "You selected the last 4 rooms like this left on Booking.com!"
+            },
+            "room_page": {
+                "35343902_105545762_0_1_0": "Only 4 rooms left on Booking.com"
+            },
+            "rooms_list": {
+                "35343902_105545762_0_1_0": "Only 4 rooms left on Booking.com"
+            }
+        },
+        "plq_sensitivity": "",
+        "preferences": [],
+        "room_recommendation": [
+            {
+                "adults": 1,
+                "babies": 0,
+                "block_id": "35343901_105545762_0_1_0",
+                "children": 0,
+                "number_of_extra_beds": 0,
+                "total_extra_bed_price": 0,
+                "total_extra_bed_price_in_hotel_currency": 0
+            }
+        ],
+        "soldout_rooms": [
+            {
+                "average_price": {},
+                "max_occupancy": 3,
+                "name": "Triple Room",
+                "photos": [
+                    {
+                        "photo_id": 267791644,
+                        "ratio": 0.75,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/267791644.jpg?k=90bea8ec2d9f926be2a905a6cae566dc164d77dec34ce9b6304d37ad520478a7&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/267/267791644.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/267/267791644.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/267/267791644.jpg"
+                    },
+                    {
+                        "photo_id": 209962416,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/209962416.jpg?k=e4d34d8f5a7bcf27cde39c88e5538cc821fa52ce4710c2ee15a08e48172a3728&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/209/209962416.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/209/209962416.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/209/209962416.jpg"
+                    },
+                    {
+                        "photo_id": 6477379,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/6477379.jpg?k=a78376397bdc99f4fd799837e73d26348ac246b958ecb6a56b4baada9e131979&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/647/6477379.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/647/6477379.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/647/6477379.jpg"
+                    }
+                ],
+                "room_id": 35343903
+            }
+        ],
+        "spoken_languages": [
+            "es"
+        ],
+        "timezone": "America/El_Salvador",
+        "top_ufi_benefits": [
+            {
+                "icon": "icon_wifi",
+                "translated_name": "WiFi"
+            },
+            {
+                "icon": "icon_parkingfee",
+                "translated_name": "Parking"
+            },
+            {
+                "icon": "icon_family",
+                "translated_name": "Family rooms"
+            }
+        ],
+        "total_blocks": 2,
+        "use_new_bui_icon_highlight": 0,
+        "wifi_review_score": {
+            "rating": 8.3
+        },
+        "wl_dest_id": "city::-1148082"
+    }
+]

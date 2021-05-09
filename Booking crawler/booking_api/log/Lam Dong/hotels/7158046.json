@@ -1,0 +1,2367 @@
+[
+    {
+        "address_required": 0,
+        "address_trans": "",
+        "arrival_date": "2021-05-10",
+        "availability_blackout_applied": 0,
+        "available_deal_descriptions": [],
+        "b_legal_use_neutral_color_for_persuasion_legal": 0,
+        "b_sca_flow_property_user_ip": 0,
+        "block": [
+            {
+                "all_inclusive": 0,
+                "b_bsb_campaigns": [],
+                "b_bsd_reward_hp": null,
+                "babycots_available": 0,
+                "babycots_available_amount": null,
+                "bed_configurations": [
+                    {
+                        "bed_types": [
+                            {
+                                "bed_type": 2,
+                                "count": 1,
+                                "description": "131-150 cm wide",
+                                "description_imperial": "52-59 inches wide",
+                                "description_localized": null,
+                                "name": "Full bed",
+                                "name_with_count": "1 full bed"
+                            }
+                        ]
+                    }
+                ],
+                "block_id": "715804601_298865883_1_0_0",
+                "block_text": {
+                    "facilities": [
+                        "Shower",
+                        "Hairdryer",
+                        "Shared bathroom",
+                        "Free toiletries",
+                        "Fan",
+                        "Toilet",
+                        "Slippers",
+                        "Private entrance",
+                        "Soundproof",
+                        "View",
+                        "Garden view",
+                        "Mountain view",
+                        "Toilet paper",
+                        "Bottle of water",
+                        "Toothbrush",
+                        "Shampoo",
+                        "Conditioner",
+                        "Body soap",
+                        "Non-feather pillow",
+                        "Hypoallergenic pillow",
+                        "Inner courtyard view",
+                        "Fire extinguisher"
+                    ],
+                    "free_facilities": [],
+                    "policies": [
+                        {
+                            "class": "POLICY_CANCELLATION",
+                            "content": "Note that if canceled, modified, or in case of no-show, the total price of the reservation will be charged."
+                        },
+                        {
+                            "class": "POLICY_PREPAY",
+                            "content": "You'll be charged a prepayment of the total price at any time."
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_EXCLUDED",
+                            "content": "49% Service charge, 49% Cleaning fee"
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_INCLUDED",
+                            "content": "10% VAT"
+                        },
+                        {
+                            "class": "POLICY_TITLE",
+                            "content": "General"
+                        }
+                    ],
+                    "room_desc": "Rooms are 9 square metres."
+                },
+                "breakfast_included": 0,
+                "can_reserve_free_parking": 0,
+                "deals": {
+                    "deal_attributes": {
+                        "has_multiple_deals": 0,
+                        "has_secret_channel_option": 0,
+                        "is_secret_channel": 0
+                    },
+                    "deal_events": [],
+                    "deal_events_killswitch": 0,
+                    "deals_available": {}
+                },
+                "deposit_required": 1,
+                "extrabed_available": 0,
+                "extrabed_available_amount": null,
+                "full_board": 0,
+                "genius_discount_percentage": 0,
+                "half_board": 0,
+                "incremental_price": [
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": 2.05,
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": 2.05,
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": 0.38,
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": "3.80"
+                        },
+                        "price": 4.18
+                    },
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "4.10",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "4.10",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "0.76",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": "7.60"
+                        },
+                        "price": 8.36
+                    },
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "6.15",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "6.15",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "1.14",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": "11.40"
+                        },
+                        "price": "12.54"
+                    }
+                ],
+                "is_domestic_rate": 0,
+                "is_flash_deal": 0,
+                "is_genius_deal": null,
+                "is_genius_discount_geo": 0,
+                "is_last_minute_deal": 0,
+                "is_secret_deal": 0,
+                "is_smart_deal": 0,
+                "loyalty_reward_data": {
+                    "reward_detail": []
+                },
+                "max_children_free": 0,
+                "max_children_free_age": 12,
+                "max_occupancy": 1,
+                "mealplan": "There is no meal option with this room.",
+                "min_price": {
+                    "currency": "USD",
+                    "extra_charges_breakdown": {
+                        "extra_charge": [
+                            {
+                                "amount": "2.05",
+                                "charge_amount": "49.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "1",
+                                "name": "Cleaning fee",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "2.05",
+                                "charge_amount": "49.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "1",
+                                "name": "Service charge",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "0.38",
+                                "charge_amount": "10.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "0",
+                                "name": "VAT",
+                                "type": "VAT"
+                            }
+                        ],
+                        "net_price": "3.80"
+                    },
+                    "price": "4.18"
+                },
+                "must_reserve_free_parking": 0,
+                "name": "Standard Double Room with Shared Bathroom - single occupancy",
+                "name_without_policy": "Standard Double Room with Shared Bathroom",
+                "number_of_bathrooms": 0,
+                "photos": [
+                    {
+                        "new_order": 0,
+                        "photo_id": 290265205,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290265205.jpg?k=43c0b300d3d487b074e82334a08037045e0af8ff358117a180df7c088021ce5f&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290265205.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290265205.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290265205.jpg"
+                    },
+                    {
+                        "new_order": 1,
+                        "photo_id": 290265183,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290265183.jpg?k=f584a61460a2aa8feee670c2ee63ca211d5e79b59bd8c0f857053060a65ad27f&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290265183.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290265183.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290265183.jpg"
+                    },
+                    {
+                        "new_order": 2,
+                        "photo_id": 290265230,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290265230.jpg?k=a0a12049923391b4d250652015d70c88f42a5edaf039996d07a6b30f10dbb400&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290265230.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290265230.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290265230.jpg"
+                    },
+                    {
+                        "new_order": 3,
+                        "photo_id": 290265304,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290265304.jpg?k=755334e89b4f7f70156fd0ed49b46c36edd93f5b36892275561b12899cff7162&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290265304.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290265304.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290265304.jpg"
+                    },
+                    {
+                        "new_order": 5,
+                        "photo_id": 290268391,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290268391.jpg?k=6bc50e47798bfc52f76575ae775e89af50d3f5e0fd41e3725e388a1d3720e640&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290268391.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290268391.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290268391.jpg"
+                    },
+                    {
+                        "new_order": 6,
+                        "photo_id": 290268607,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290268607.jpg?k=f2f5e3e8da5b1af815964a242842e80924e7c3d5188a5cb1db526b2c2bea3425&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290268607.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290268607.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290268607.jpg"
+                    },
+                    {
+                        "new_order": 4,
+                        "photo_id": 290268524,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290268524.jpg?k=d969bde01e19d73b2f0a36ed35ad64b66291ad70a3febae8c71bbddbfa8c3fcd&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290268524.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290268524.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290268524.jpg"
+                    }
+                ],
+                "photos_may_sorted": 1,
+                "pod_ios_migrate_policies_to_smp_fullon": 0,
+                "rack_rate": {
+                    "currency": "USD",
+                    "price": "0.00"
+                },
+                "rate_type_id": 47,
+                "refundable": 0,
+                "refundable_until": "",
+                "room_count": 6,
+                "room_highlights": [
+                    {
+                        "icon": "icon_wifi",
+                        "key": "wifi",
+                        "translated_name": "Free WiFi"
+                    },
+                    {
+                        "icon": "icon_soundproof",
+                        "id": 79,
+                        "translated_name": "Soundproof"
+                    },
+                    {
+                        "icon": "icon_viewed",
+                        "id": 81,
+                        "translated_name": "View"
+                    },
+                    {
+                        "icon": "icon_viewed",
+                        "id": 110,
+                        "translated_name": "Garden view"
+                    }
+                ],
+                "room_id": 715804601,
+                "room_name": "Standard Double Room with Shared Bathroom",
+                "room_surface_in_feet2": 96.8751936,
+                "room_surface_in_m2": "9.00",
+                "roomtype_id": 9,
+                "smoking": 0
+            },
+            {
+                "all_inclusive": 0,
+                "b_bsb_campaigns": [],
+                "b_bsd_reward_hp": null,
+                "babycots_available": 0,
+                "babycots_available_amount": null,
+                "bed_configurations": [
+                    {
+                        "bed_types": [
+                            {
+                                "bed_type": 2,
+                                "count": 1,
+                                "description": "131-150 cm wide",
+                                "description_imperial": "52-59 inches wide",
+                                "description_localized": null,
+                                "name": "Full bed",
+                                "name_with_count": "1 full bed"
+                            }
+                        ]
+                    }
+                ],
+                "block_id": "715804601_298865883_2_0_0",
+                "block_text": {
+                    "facilities": [
+                        "Shower",
+                        "Hairdryer",
+                        "Shared bathroom",
+                        "Free toiletries",
+                        "Fan",
+                        "Toilet",
+                        "Slippers",
+                        "Private entrance",
+                        "Soundproof",
+                        "View",
+                        "Garden view",
+                        "Mountain view",
+                        "Toilet paper",
+                        "Bottle of water",
+                        "Toothbrush",
+                        "Shampoo",
+                        "Conditioner",
+                        "Body soap",
+                        "Non-feather pillow",
+                        "Hypoallergenic pillow",
+                        "Inner courtyard view",
+                        "Fire extinguisher"
+                    ],
+                    "free_facilities": [],
+                    "policies": [
+                        {
+                            "class": "POLICY_CANCELLATION",
+                            "content": "Note that if canceled, modified, or in case of no-show, the total price of the reservation will be charged."
+                        },
+                        {
+                            "class": "POLICY_PREPAY",
+                            "content": "You'll be charged a prepayment of the total price at any time."
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_EXCLUDED",
+                            "content": "49% Service charge, 49% Cleaning fee"
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_INCLUDED",
+                            "content": "10% VAT"
+                        },
+                        {
+                            "class": "POLICY_TITLE",
+                            "content": "General"
+                        }
+                    ],
+                    "room_desc": "Rooms are 9 square metres."
+                },
+                "breakfast_included": 0,
+                "can_reserve_free_parking": 0,
+                "deals": {
+                    "deal_attributes": {
+                        "has_multiple_deals": 0,
+                        "has_secret_channel_option": 0,
+                        "is_secret_channel": 0
+                    },
+                    "deal_events": [],
+                    "deal_events_killswitch": 0,
+                    "deals_available": {}
+                },
+                "deposit_required": 1,
+                "extrabed_available": 0,
+                "extrabed_available_amount": null,
+                "full_board": 0,
+                "genius_discount_percentage": 0,
+                "half_board": 0,
+                "incremental_price": [
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": 2.16,
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": 2.16,
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "0.40",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": "4.00"
+                        },
+                        "price": "4.40"
+                    },
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "4.32",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "4.32",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "0.80",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": "8.00"
+                        },
+                        "price": "8.80"
+                    },
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "6.48",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "6.48",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "1.20",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": "12.00"
+                        },
+                        "price": "13.20"
+                    }
+                ],
+                "is_domestic_rate": 0,
+                "is_flash_deal": 0,
+                "is_genius_deal": null,
+                "is_genius_discount_geo": 0,
+                "is_last_minute_deal": 0,
+                "is_secret_deal": 0,
+                "is_smart_deal": 0,
+                "loyalty_reward_data": {
+                    "reward_detail": []
+                },
+                "max_children_free": 0,
+                "max_children_free_age": 12,
+                "max_occupancy": 2,
+                "mealplan": "There is no meal option with this room.",
+                "min_price": {
+                    "currency": "USD",
+                    "extra_charges_breakdown": {
+                        "extra_charge": [
+                            {
+                                "amount": "2.16",
+                                "charge_amount": "49.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "1",
+                                "name": "Cleaning fee",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "2.16",
+                                "charge_amount": "49.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "1",
+                                "name": "Service charge",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "0.40",
+                                "charge_amount": "10.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "0",
+                                "name": "VAT",
+                                "type": "VAT"
+                            }
+                        ],
+                        "net_price": "4.00"
+                    },
+                    "price": "4.40"
+                },
+                "must_reserve_free_parking": 0,
+                "name": "Standard Double Room with Shared Bathroom",
+                "name_without_policy": "Standard Double Room with Shared Bathroom",
+                "number_of_bathrooms": 0,
+                "photos": [
+                    {
+                        "new_order": 0,
+                        "photo_id": 290265205,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290265205.jpg?k=43c0b300d3d487b074e82334a08037045e0af8ff358117a180df7c088021ce5f&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290265205.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290265205.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290265205.jpg"
+                    },
+                    {
+                        "new_order": 1,
+                        "photo_id": 290265183,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290265183.jpg?k=f584a61460a2aa8feee670c2ee63ca211d5e79b59bd8c0f857053060a65ad27f&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290265183.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290265183.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290265183.jpg"
+                    },
+                    {
+                        "new_order": 2,
+                        "photo_id": 290265230,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290265230.jpg?k=a0a12049923391b4d250652015d70c88f42a5edaf039996d07a6b30f10dbb400&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290265230.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290265230.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290265230.jpg"
+                    },
+                    {
+                        "new_order": 3,
+                        "photo_id": 290265304,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290265304.jpg?k=755334e89b4f7f70156fd0ed49b46c36edd93f5b36892275561b12899cff7162&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290265304.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290265304.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290265304.jpg"
+                    },
+                    {
+                        "new_order": 5,
+                        "photo_id": 290268391,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290268391.jpg?k=6bc50e47798bfc52f76575ae775e89af50d3f5e0fd41e3725e388a1d3720e640&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290268391.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290268391.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290268391.jpg"
+                    },
+                    {
+                        "new_order": 6,
+                        "photo_id": 290268607,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290268607.jpg?k=f2f5e3e8da5b1af815964a242842e80924e7c3d5188a5cb1db526b2c2bea3425&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290268607.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290268607.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290268607.jpg"
+                    },
+                    {
+                        "new_order": 4,
+                        "photo_id": 290268524,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290268524.jpg?k=d969bde01e19d73b2f0a36ed35ad64b66291ad70a3febae8c71bbddbfa8c3fcd&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290268524.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290268524.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290268524.jpg"
+                    }
+                ],
+                "pod_ios_migrate_policies_to_smp_fullon": 0,
+                "rack_rate": {
+                    "currency": "USD",
+                    "price": "0.00"
+                },
+                "rate_type_id": 47,
+                "refundable": 0,
+                "refundable_until": "",
+                "room_count": 6,
+                "room_highlights": [
+                    {
+                        "icon": "icon_wifi",
+                        "key": "wifi",
+                        "translated_name": "Free WiFi"
+                    },
+                    {
+                        "icon": "icon_soundproof",
+                        "id": 79,
+                        "translated_name": "Soundproof"
+                    },
+                    {
+                        "icon": "icon_viewed",
+                        "id": 81,
+                        "translated_name": "View"
+                    },
+                    {
+                        "icon": "icon_viewed",
+                        "id": 110,
+                        "translated_name": "Garden view"
+                    }
+                ],
+                "room_id": 715804601,
+                "room_name": "Standard Double Room with Shared Bathroom",
+                "room_surface_in_feet2": 96.8751936,
+                "room_surface_in_m2": "9.00",
+                "roomtype_id": 9,
+                "smoking": 0
+            },
+            {
+                "all_inclusive": 0,
+                "b_bsb_campaigns": [],
+                "b_bsd_reward_hp": null,
+                "babycots_available": 0,
+                "babycots_available_amount": null,
+                "bed_configurations": [
+                    {
+                        "bed_types": [
+                            {
+                                "bed_type": 2,
+                                "count": 1,
+                                "description": "131-150 cm wide",
+                                "description_imperial": "52-59 inches wide",
+                                "description_localized": null,
+                                "name": "Full bed",
+                                "name_with_count": "1 full bed"
+                            }
+                        ]
+                    }
+                ],
+                "block_id": "715804602_298865883_1_0_0",
+                "block_text": {
+                    "facilities": [
+                        "Shower",
+                        "Hairdryer",
+                        "Free toiletries",
+                        "Fan",
+                        "Toilet",
+                        "Private bathroom",
+                        "Slippers",
+                        "Flat-screen TV",
+                        "Private entrance",
+                        "Soundproof",
+                        "View",
+                        "Bidet",
+                        "Garden view",
+                        "Mountain view",
+                        "Toilet paper",
+                        "Bottle of water",
+                        "Toothbrush",
+                        "Shampoo",
+                        "Conditioner",
+                        "Body soap",
+                        "Non-feather pillow",
+                        "Hypoallergenic pillow",
+                        "Inner courtyard view",
+                        "Fire extinguisher"
+                    ],
+                    "free_facilities": [],
+                    "policies": [
+                        {
+                            "class": "POLICY_CANCELLATION",
+                            "content": "Note that if canceled, modified, or in case of no-show, the total price of the reservation will be charged."
+                        },
+                        {
+                            "class": "POLICY_PREPAY",
+                            "content": "You'll be charged a prepayment of the total price at any time."
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_EXCLUDED",
+                            "content": "49% Service charge, 49% Cleaning fee"
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_INCLUDED",
+                            "content": "10% VAT"
+                        },
+                        {
+                            "class": "POLICY_TITLE",
+                            "content": "General"
+                        }
+                    ],
+                    "room_desc": ""
+                },
+                "breakfast_included": 0,
+                "can_reserve_free_parking": 0,
+                "deals": {
+                    "deal_attributes": {
+                        "has_multiple_deals": 0,
+                        "has_secret_channel_option": 0,
+                        "is_secret_channel": 0
+                    },
+                    "deal_events": [],
+                    "deal_events_killswitch": 0,
+                    "deals_available": {}
+                },
+                "deposit_required": 1,
+                "extrabed_available": 0,
+                "extrabed_available_amount": null,
+                "full_board": 0,
+                "genius_discount_percentage": 0,
+                "half_board": 0,
+                "incremental_price": [
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": 3.17,
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": 3.17,
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": 0.59,
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": 5.87
+                        },
+                        "price": 6.46
+                    },
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "6.34",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "6.34",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "1.18",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": 11.74
+                        },
+                        "price": 12.92
+                    },
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "9.51",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "9.51",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "1.77",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": "17.61"
+                        },
+                        "price": "19.38"
+                    }
+                ],
+                "is_domestic_rate": 0,
+                "is_flash_deal": 0,
+                "is_genius_deal": null,
+                "is_genius_discount_geo": 0,
+                "is_last_minute_deal": 0,
+                "is_secret_deal": 0,
+                "is_smart_deal": 0,
+                "loyalty_reward_data": {
+                    "reward_detail": []
+                },
+                "max_children_free": 0,
+                "max_children_free_age": 12,
+                "max_occupancy": 1,
+                "mealplan": "There is no meal option with this room.",
+                "min_price": {
+                    "currency": "USD",
+                    "extra_charges_breakdown": {
+                        "extra_charge": [
+                            {
+                                "amount": "3.17",
+                                "charge_amount": "49.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "1",
+                                "name": "Service charge",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "3.17",
+                                "charge_amount": "49.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "1",
+                                "name": "Cleaning fee",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "0.59",
+                                "charge_amount": "10.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "0",
+                                "name": "VAT",
+                                "type": "VAT"
+                            }
+                        ],
+                        "net_price": "5.87"
+                    },
+                    "price": "6.46"
+                },
+                "must_reserve_free_parking": 0,
+                "name": "Double Room with Balcony - single occupancy",
+                "name_without_policy": "Double Room with Balcony",
+                "number_of_bathrooms": 0,
+                "photos": [
+                    {
+                        "new_order": 0,
+                        "photo_id": 290265353,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290265353.jpg?k=288bddef29b878af45ad730182b4f39d1a0e1d414b64ca393a85d8025a953a87&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290265353.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290265353.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290265353.jpg"
+                    },
+                    {
+                        "new_order": 1,
+                        "photo_id": 290266143,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290266143.jpg?k=0765743af08f379543513f65245e63192c8664f9c5c35340ab68bcf2c15c1c6b&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290266143.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290266143.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290266143.jpg"
+                    },
+                    {
+                        "new_order": 2,
+                        "photo_id": 290265587,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290265587.jpg?k=d4a512f0c6b2fa8a3b2eff6e3eaafef6363074b4bc688736293440d79ca91696&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290265587.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290265587.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290265587.jpg"
+                    },
+                    {
+                        "new_order": 3,
+                        "photo_id": 290266375,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290266375.jpg?k=e9d8127029402863a5faebcb1b038d560f527f639cf40e5ca0360a66695c2bcd&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290266375.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290266375.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290266375.jpg"
+                    },
+                    {
+                        "new_order": 5,
+                        "photo_id": 290268391,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290268391.jpg?k=6bc50e47798bfc52f76575ae775e89af50d3f5e0fd41e3725e388a1d3720e640&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290268391.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290268391.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290268391.jpg"
+                    },
+                    {
+                        "new_order": 6,
+                        "photo_id": 290268607,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290268607.jpg?k=f2f5e3e8da5b1af815964a242842e80924e7c3d5188a5cb1db526b2c2bea3425&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290268607.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290268607.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290268607.jpg"
+                    },
+                    {
+                        "new_order": 4,
+                        "photo_id": 290268524,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290268524.jpg?k=d969bde01e19d73b2f0a36ed35ad64b66291ad70a3febae8c71bbddbfa8c3fcd&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290268524.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290268524.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290268524.jpg"
+                    }
+                ],
+                "photos_may_sorted": 1,
+                "pod_ios_migrate_policies_to_smp_fullon": 0,
+                "rack_rate": {
+                    "currency": "USD",
+                    "price": "0.00"
+                },
+                "rate_type_id": 47,
+                "refundable": 0,
+                "refundable_until": "",
+                "room_count": 3,
+                "room_highlights": [
+                    {
+                        "icon": "icon_wifi",
+                        "key": "wifi",
+                        "translated_name": "Free WiFi"
+                    },
+                    {
+                        "icon": "icon_private-shower",
+                        "id": 38,
+                        "translated_name": "Private bathroom"
+                    },
+                    {
+                        "icon": "icon_flattv",
+                        "id": 75,
+                        "translated_name": "Flat-screen TV"
+                    },
+                    {
+                        "icon": "icon_soundproof",
+                        "id": 79,
+                        "translated_name": "Soundproof"
+                    }
+                ],
+                "room_id": 715804602,
+                "room_name": "Double Room with Balcony",
+                "room_surface_in_feet2": 150.6947456,
+                "room_surface_in_m2": "14.00",
+                "roomtype_id": 9,
+                "smoking": 0
+            },
+            {
+                "all_inclusive": 0,
+                "b_bsb_campaigns": [],
+                "b_bsd_reward_hp": null,
+                "babycots_available": 0,
+                "babycots_available_amount": null,
+                "bed_configurations": [
+                    {
+                        "bed_types": [
+                            {
+                                "bed_type": 2,
+                                "count": 1,
+                                "description": "131-150 cm wide",
+                                "description_imperial": "52-59 inches wide",
+                                "description_localized": null,
+                                "name": "Full bed",
+                                "name_with_count": "1 full bed"
+                            }
+                        ]
+                    }
+                ],
+                "block_id": "715804602_298865883_2_0_0",
+                "block_text": {
+                    "facilities": [
+                        "Shower",
+                        "Hairdryer",
+                        "Free toiletries",
+                        "Fan",
+                        "Toilet",
+                        "Private bathroom",
+                        "Slippers",
+                        "Flat-screen TV",
+                        "Private entrance",
+                        "Soundproof",
+                        "View",
+                        "Bidet",
+                        "Garden view",
+                        "Mountain view",
+                        "Toilet paper",
+                        "Bottle of water",
+                        "Toothbrush",
+                        "Shampoo",
+                        "Conditioner",
+                        "Body soap",
+                        "Non-feather pillow",
+                        "Hypoallergenic pillow",
+                        "Inner courtyard view",
+                        "Fire extinguisher"
+                    ],
+                    "free_facilities": [],
+                    "policies": [
+                        {
+                            "class": "POLICY_CANCELLATION",
+                            "content": "Note that if canceled, modified, or in case of no-show, the total price of the reservation will be charged."
+                        },
+                        {
+                            "class": "POLICY_PREPAY",
+                            "content": "You'll be charged a prepayment of the total price at any time."
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_EXCLUDED",
+                            "content": "49% Service charge, 49% Cleaning fee"
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_INCLUDED",
+                            "content": "10% VAT"
+                        },
+                        {
+                            "class": "POLICY_TITLE",
+                            "content": "General"
+                        }
+                    ],
+                    "room_desc": ""
+                },
+                "breakfast_included": 0,
+                "can_reserve_free_parking": 0,
+                "deals": {
+                    "deal_attributes": {
+                        "has_multiple_deals": 0,
+                        "has_secret_channel_option": 0,
+                        "is_secret_channel": 0
+                    },
+                    "deal_events": [],
+                    "deal_events_killswitch": 0,
+                    "deals_available": {}
+                },
+                "deposit_required": 1,
+                "extrabed_available": 0,
+                "extrabed_available_amount": null,
+                "full_board": 0,
+                "genius_discount_percentage": 0,
+                "half_board": 0,
+                "incremental_price": [
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": 3.33,
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": 3.33,
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": 0.62,
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": 6.18
+                        },
+                        "price": "6.80"
+                    },
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "6.66",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "6.66",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "1.24",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": 12.36
+                        },
+                        "price": "13.60"
+                    },
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "9.99",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "9.99",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "1.86",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": "18.54"
+                        },
+                        "price": "20.40"
+                    }
+                ],
+                "is_domestic_rate": 0,
+                "is_flash_deal": 0,
+                "is_genius_deal": null,
+                "is_genius_discount_geo": 0,
+                "is_last_minute_deal": 0,
+                "is_secret_deal": 0,
+                "is_smart_deal": 0,
+                "loyalty_reward_data": {
+                    "reward_detail": []
+                },
+                "max_children_free": 0,
+                "max_children_free_age": 12,
+                "max_occupancy": 2,
+                "mealplan": "There is no meal option with this room.",
+                "min_price": {
+                    "currency": "USD",
+                    "extra_charges_breakdown": {
+                        "extra_charge": [
+                            {
+                                "amount": "3.33",
+                                "charge_amount": "49.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "1",
+                                "name": "Service charge",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "3.33",
+                                "charge_amount": "49.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "1",
+                                "name": "Cleaning fee",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "0.62",
+                                "charge_amount": "10.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "0",
+                                "name": "VAT",
+                                "type": "VAT"
+                            }
+                        ],
+                        "net_price": "6.18"
+                    },
+                    "price": "6.80"
+                },
+                "must_reserve_free_parking": 0,
+                "name": "Double Room with Balcony",
+                "name_without_policy": "Double Room with Balcony",
+                "number_of_bathrooms": 0,
+                "photos": [
+                    {
+                        "new_order": 0,
+                        "photo_id": 290265353,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290265353.jpg?k=288bddef29b878af45ad730182b4f39d1a0e1d414b64ca393a85d8025a953a87&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290265353.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290265353.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290265353.jpg"
+                    },
+                    {
+                        "new_order": 1,
+                        "photo_id": 290266143,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290266143.jpg?k=0765743af08f379543513f65245e63192c8664f9c5c35340ab68bcf2c15c1c6b&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290266143.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290266143.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290266143.jpg"
+                    },
+                    {
+                        "new_order": 2,
+                        "photo_id": 290265587,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290265587.jpg?k=d4a512f0c6b2fa8a3b2eff6e3eaafef6363074b4bc688736293440d79ca91696&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290265587.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290265587.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290265587.jpg"
+                    },
+                    {
+                        "new_order": 3,
+                        "photo_id": 290266375,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290266375.jpg?k=e9d8127029402863a5faebcb1b038d560f527f639cf40e5ca0360a66695c2bcd&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290266375.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290266375.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290266375.jpg"
+                    },
+                    {
+                        "new_order": 5,
+                        "photo_id": 290268391,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290268391.jpg?k=6bc50e47798bfc52f76575ae775e89af50d3f5e0fd41e3725e388a1d3720e640&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290268391.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290268391.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290268391.jpg"
+                    },
+                    {
+                        "new_order": 6,
+                        "photo_id": 290268607,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290268607.jpg?k=f2f5e3e8da5b1af815964a242842e80924e7c3d5188a5cb1db526b2c2bea3425&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290268607.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290268607.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290268607.jpg"
+                    },
+                    {
+                        "new_order": 4,
+                        "photo_id": 290268524,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290268524.jpg?k=d969bde01e19d73b2f0a36ed35ad64b66291ad70a3febae8c71bbddbfa8c3fcd&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290268524.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290268524.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290268524.jpg"
+                    }
+                ],
+                "pod_ios_migrate_policies_to_smp_fullon": 0,
+                "rack_rate": {
+                    "currency": "USD",
+                    "price": "0.00"
+                },
+                "rate_type_id": 47,
+                "refundable": 0,
+                "refundable_until": "",
+                "room_count": 3,
+                "room_highlights": [
+                    {
+                        "icon": "icon_wifi",
+                        "key": "wifi",
+                        "translated_name": "Free WiFi"
+                    },
+                    {
+                        "icon": "icon_private-shower",
+                        "id": 38,
+                        "translated_name": "Private bathroom"
+                    },
+                    {
+                        "icon": "icon_flattv",
+                        "id": 75,
+                        "translated_name": "Flat-screen TV"
+                    },
+                    {
+                        "icon": "icon_soundproof",
+                        "id": 79,
+                        "translated_name": "Soundproof"
+                    }
+                ],
+                "room_id": 715804602,
+                "room_name": "Double Room with Balcony",
+                "room_surface_in_feet2": 150.6947456,
+                "room_surface_in_m2": "14.00",
+                "roomtype_id": 9,
+                "smoking": 0
+            },
+            {
+                "all_inclusive": 0,
+                "b_bsb_campaigns": [],
+                "b_bsd_reward_hp": null,
+                "babycots_available": 0,
+                "babycots_available_amount": null,
+                "bed_configurations": [
+                    {
+                        "bed_types": [
+                            {
+                                "bed_type": 2,
+                                "count": 2,
+                                "description": "131-150 cm wide",
+                                "description_imperial": "52-59 inches wide",
+                                "description_localized": null,
+                                "name": "Full beds",
+                                "name_with_count": "2 full beds"
+                            }
+                        ]
+                    }
+                ],
+                "block_id": "715804603_298865883_3_0_0",
+                "block_text": {
+                    "facilities": [
+                        "Shower",
+                        "Hairdryer",
+                        "Free toiletries",
+                        "Fan",
+                        "Toilet",
+                        "Private bathroom",
+                        "Slippers",
+                        "Flat-screen TV",
+                        "Private entrance",
+                        "Soundproof",
+                        "View",
+                        "Bidet",
+                        "Garden view",
+                        "Mountain view",
+                        "Toilet paper",
+                        "Bottle of water",
+                        "Toothbrush",
+                        "Shampoo",
+                        "Conditioner",
+                        "Body soap",
+                        "Non-feather pillow",
+                        "Hypoallergenic pillow",
+                        "Inner courtyard view",
+                        "Fire extinguisher"
+                    ],
+                    "free_facilities": [],
+                    "policies": [
+                        {
+                            "class": "POLICY_CANCELLATION",
+                            "content": "Note that if canceled, modified, or in case of no-show, the total price of the reservation will be charged."
+                        },
+                        {
+                            "class": "POLICY_PREPAY",
+                            "content": "You'll be charged a prepayment of the total price at any time."
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_EXCLUDED",
+                            "content": "49% Service charge, 49% Cleaning fee"
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_INCLUDED",
+                            "content": "10% VAT"
+                        },
+                        {
+                            "class": "POLICY_TITLE",
+                            "content": "General"
+                        }
+                    ],
+                    "room_desc": ""
+                },
+                "breakfast_included": 0,
+                "can_reserve_free_parking": 0,
+                "deals": {
+                    "deal_attributes": {
+                        "has_multiple_deals": 0,
+                        "has_secret_channel_option": 0,
+                        "is_secret_channel": 0
+                    },
+                    "deal_events": [],
+                    "deal_events_killswitch": 0,
+                    "deals_available": {}
+                },
+                "deposit_required": 1,
+                "extrabed_available": 0,
+                "extrabed_available_amount": null,
+                "full_board": 0,
+                "genius_discount_percentage": 0,
+                "half_board": 0,
+                "incremental_price": [
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": 1.21,
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                },
+                                {
+                                    "amount": 6.52,
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": 6.52,
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                }
+                            ],
+                            "net_price": 12.09
+                        },
+                        "price": "13.30"
+                    },
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "2.42",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                },
+                                {
+                                    "amount": "13.04",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "13.04",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                }
+                            ],
+                            "net_price": 24.18
+                        },
+                        "price": "26.60"
+                    },
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "3.63",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                },
+                                {
+                                    "amount": "19.56",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "19.56",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                }
+                            ],
+                            "net_price": "36.27"
+                        },
+                        "price": "39.90"
+                    }
+                ],
+                "is_domestic_rate": 0,
+                "is_flash_deal": 0,
+                "is_genius_deal": null,
+                "is_genius_discount_geo": 0,
+                "is_last_minute_deal": 0,
+                "is_secret_deal": 0,
+                "is_smart_deal": 0,
+                "loyalty_reward_data": {
+                    "reward_detail": []
+                },
+                "max_children_free": 0,
+                "max_children_free_age": 12,
+                "max_occupancy": 3,
+                "mealplan": "There is no meal option with this room.",
+                "min_price": {
+                    "currency": "USD",
+                    "extra_charges_breakdown": {
+                        "extra_charge": [
+                            {
+                                "amount": "1.21",
+                                "charge_amount": "10.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "0",
+                                "name": "VAT",
+                                "type": "VAT"
+                            },
+                            {
+                                "amount": "6.52",
+                                "charge_amount": "49.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "1",
+                                "name": "Service charge",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "6.52",
+                                "charge_amount": "49.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "1",
+                                "name": "Cleaning fee",
+                                "type": "SERVICECHARGE"
+                            }
+                        ],
+                        "net_price": "12.09"
+                    },
+                    "price": "13.30"
+                },
+                "must_reserve_free_parking": 0,
+                "name": "Family Room with Balcony",
+                "name_without_policy": "Family Room with Balcony",
+                "number_of_bathrooms": 0,
+                "photos": [
+                    {
+                        "new_order": 0,
+                        "photo_id": 290266434,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290266434.jpg?k=c3c9cb4f277b71146dc1a43bede1b1cd887a6605533b5d6ea79ac9538a967133&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290266434.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290266434.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290266434.jpg"
+                    },
+                    {
+                        "new_order": 1,
+                        "photo_id": 290266686,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290266686.jpg?k=4c0b0c1b99b2401f3fa98404b18eeae8f98df0d9102159cccd97823ea281c0e0&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290266686.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290266686.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290266686.jpg"
+                    },
+                    {
+                        "new_order": 2,
+                        "photo_id": 290267099,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290267099.jpg?k=8dc1057d9da68cbb57f1201c5b8221fc2a96c50175c818b450ea412ee782d053&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290267099.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290267099.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290267099.jpg"
+                    },
+                    {
+                        "new_order": 3,
+                        "photo_id": 290267245,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290267245.jpg?k=b4256193eadd8843deb5a9748584f2ffeae312ef17e4b73577b49c2081783fe6&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290267245.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290267245.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290267245.jpg"
+                    },
+                    {
+                        "new_order": 4,
+                        "photo_id": 290268524,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290268524.jpg?k=d969bde01e19d73b2f0a36ed35ad64b66291ad70a3febae8c71bbddbfa8c3fcd&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290268524.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290268524.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290268524.jpg"
+                    },
+                    {
+                        "new_order": 5,
+                        "photo_id": 290268391,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290268391.jpg?k=6bc50e47798bfc52f76575ae775e89af50d3f5e0fd41e3725e388a1d3720e640&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290268391.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290268391.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290268391.jpg"
+                    },
+                    {
+                        "new_order": 6,
+                        "photo_id": 290268607,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290268607.jpg?k=f2f5e3e8da5b1af815964a242842e80924e7c3d5188a5cb1db526b2c2bea3425&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290268607.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290268607.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290268607.jpg"
+                    }
+                ],
+                "pod_ios_migrate_policies_to_smp_fullon": 0,
+                "rack_rate": {
+                    "currency": "USD",
+                    "price": "0.00"
+                },
+                "rate_type_id": 47,
+                "refundable": 0,
+                "refundable_until": "",
+                "room_count": 3,
+                "room_highlights": [
+                    {
+                        "icon": "icon_wifi",
+                        "key": "wifi",
+                        "translated_name": "Free WiFi"
+                    },
+                    {
+                        "icon": "icon_private-shower",
+                        "id": 38,
+                        "translated_name": "Private bathroom"
+                    },
+                    {
+                        "icon": "icon_flattv",
+                        "id": 75,
+                        "translated_name": "Flat-screen TV"
+                    },
+                    {
+                        "icon": "icon_soundproof",
+                        "id": 79,
+                        "translated_name": "Soundproof"
+                    }
+                ],
+                "room_id": 715804603,
+                "room_name": "Family Room with Balcony",
+                "room_surface_in_feet2": 215.278208,
+                "room_surface_in_m2": "20.00",
+                "roomtype_id": 13,
+                "smoking": 0
+            },
+            {
+                "all_inclusive": 0,
+                "b_bsb_campaigns": [],
+                "b_bsd_reward_hp": null,
+                "babycots_available": 0,
+                "babycots_available_amount": null,
+                "bed_configurations": [
+                    {
+                        "bed_types": [
+                            {
+                                "bed_type": 2,
+                                "count": 2,
+                                "description": "131-150 cm wide",
+                                "description_imperial": "52-59 inches wide",
+                                "description_localized": null,
+                                "name": "Full beds",
+                                "name_with_count": "2 full beds"
+                            }
+                        ]
+                    }
+                ],
+                "block_id": "715804603_298865883_4_0_0",
+                "block_text": {
+                    "facilities": [
+                        "Shower",
+                        "Hairdryer",
+                        "Free toiletries",
+                        "Fan",
+                        "Toilet",
+                        "Private bathroom",
+                        "Slippers",
+                        "Flat-screen TV",
+                        "Private entrance",
+                        "Soundproof",
+                        "View",
+                        "Bidet",
+                        "Garden view",
+                        "Mountain view",
+                        "Toilet paper",
+                        "Bottle of water",
+                        "Toothbrush",
+                        "Shampoo",
+                        "Conditioner",
+                        "Body soap",
+                        "Non-feather pillow",
+                        "Hypoallergenic pillow",
+                        "Inner courtyard view",
+                        "Fire extinguisher"
+                    ],
+                    "free_facilities": [],
+                    "policies": [
+                        {
+                            "class": "POLICY_CANCELLATION",
+                            "content": "Note that if canceled, modified, or in case of no-show, the total price of the reservation will be charged."
+                        },
+                        {
+                            "class": "POLICY_PREPAY",
+                            "content": "You'll be charged a prepayment of the total price at any time."
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_EXCLUDED",
+                            "content": "49% Service charge, 49% Cleaning fee"
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_INCLUDED",
+                            "content": "10% VAT"
+                        },
+                        {
+                            "class": "POLICY_TITLE",
+                            "content": "General"
+                        }
+                    ],
+                    "room_desc": ""
+                },
+                "breakfast_included": 0,
+                "can_reserve_free_parking": 0,
+                "deals": {
+                    "deal_attributes": {
+                        "has_multiple_deals": 0,
+                        "has_secret_channel_option": 0,
+                        "is_secret_channel": 0
+                    },
+                    "deal_events": [],
+                    "deal_events_killswitch": 0,
+                    "deals_available": {}
+                },
+                "deposit_required": 1,
+                "extrabed_available": 0,
+                "extrabed_available_amount": null,
+                "full_board": 0,
+                "genius_discount_percentage": 0,
+                "half_board": 0,
+                "incremental_price": [
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": 6.86,
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": 6.86,
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": 1.27,
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": 12.73
+                        },
+                        "price": "14.00"
+                    },
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "13.72",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "13.72",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "2.54",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": 25.46
+                        },
+                        "price": "28.00"
+                    },
+                    {
+                        "currency": "USD",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "20.58",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "20.58",
+                                    "charge_amount": "49.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "3.81",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "USD",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": "38.19"
+                        },
+                        "price": "42.00"
+                    }
+                ],
+                "is_domestic_rate": 0,
+                "is_flash_deal": 0,
+                "is_genius_deal": null,
+                "is_genius_discount_geo": 0,
+                "is_last_minute_deal": 0,
+                "is_secret_deal": 0,
+                "is_smart_deal": 0,
+                "loyalty_reward_data": {
+                    "reward_detail": []
+                },
+                "max_children_free": 0,
+                "max_children_free_age": 12,
+                "max_occupancy": 4,
+                "mealplan": "There is no meal option with this room.",
+                "min_price": {
+                    "currency": "USD",
+                    "extra_charges_breakdown": {
+                        "extra_charge": [
+                            {
+                                "amount": "6.86",
+                                "charge_amount": "49.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "1",
+                                "name": "Cleaning fee",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "6.86",
+                                "charge_amount": "49.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "1",
+                                "name": "Service charge",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "1.27",
+                                "charge_amount": "10.00",
+                                "charge_price_mode": "5",
+                                "currency": "USD",
+                                "excluded": "0",
+                                "name": "VAT",
+                                "type": "VAT"
+                            }
+                        ],
+                        "net_price": "12.73"
+                    },
+                    "price": "14.00"
+                },
+                "must_reserve_free_parking": 0,
+                "name": "Family Room with Balcony",
+                "name_without_policy": "Family Room with Balcony",
+                "number_of_bathrooms": 0,
+                "photos": [
+                    {
+                        "new_order": 0,
+                        "photo_id": 290266434,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290266434.jpg?k=c3c9cb4f277b71146dc1a43bede1b1cd887a6605533b5d6ea79ac9538a967133&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290266434.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290266434.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290266434.jpg"
+                    },
+                    {
+                        "new_order": 1,
+                        "photo_id": 290266686,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290266686.jpg?k=4c0b0c1b99b2401f3fa98404b18eeae8f98df0d9102159cccd97823ea281c0e0&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290266686.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290266686.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290266686.jpg"
+                    },
+                    {
+                        "new_order": 2,
+                        "photo_id": 290267099,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290267099.jpg?k=8dc1057d9da68cbb57f1201c5b8221fc2a96c50175c818b450ea412ee782d053&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290267099.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290267099.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290267099.jpg"
+                    },
+                    {
+                        "new_order": 3,
+                        "photo_id": 290267245,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290267245.jpg?k=b4256193eadd8843deb5a9748584f2ffeae312ef17e4b73577b49c2081783fe6&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290267245.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290267245.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290267245.jpg"
+                    },
+                    {
+                        "new_order": 4,
+                        "photo_id": 290268524,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290268524.jpg?k=d969bde01e19d73b2f0a36ed35ad64b66291ad70a3febae8c71bbddbfa8c3fcd&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290268524.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290268524.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290268524.jpg"
+                    },
+                    {
+                        "new_order": 5,
+                        "photo_id": 290268391,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290268391.jpg?k=6bc50e47798bfc52f76575ae775e89af50d3f5e0fd41e3725e388a1d3720e640&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290268391.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290268391.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290268391.jpg"
+                    },
+                    {
+                        "new_order": 6,
+                        "photo_id": 290268607,
+                        "ratio": 1.49981252343457,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/290268607.jpg?k=f2f5e3e8da5b1af815964a242842e80924e7c3d5188a5cb1db526b2c2bea3425&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/290/290268607.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/290/290268607.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/290/290268607.jpg"
+                    }
+                ],
+                "pod_ios_migrate_policies_to_smp_fullon": 0,
+                "rack_rate": {
+                    "currency": "USD",
+                    "price": "0.00"
+                },
+                "rate_type_id": 47,
+                "refundable": 0,
+                "refundable_until": "",
+                "room_count": 3,
+                "room_highlights": [
+                    {
+                        "icon": "icon_wifi",
+                        "key": "wifi",
+                        "translated_name": "Free WiFi"
+                    },
+                    {
+                        "icon": "icon_private-shower",
+                        "id": 38,
+                        "translated_name": "Private bathroom"
+                    },
+                    {
+                        "icon": "icon_flattv",
+                        "id": 75,
+                        "translated_name": "Flat-screen TV"
+                    },
+                    {
+                        "icon": "icon_soundproof",
+                        "id": 79,
+                        "translated_name": "Soundproof"
+                    }
+                ],
+                "room_id": 715804603,
+                "room_name": "Family Room with Balcony",
+                "room_surface_in_feet2": 215.278208,
+                "room_surface_in_m2": "20.00",
+                "roomtype_id": 13,
+                "smoking": 0
+            }
+        ],
+        "booking_home": {},
+        "breakfast_review_score": {
+            "rating": 0,
+            "review_count": 0,
+            "review_number": 0,
+            "review_score": 0,
+            "review_score_word": "",
+            "review_snippet": ""
+        },
+        "cc_required": "0",
+        "check_only_x_left": 1,
+        "city_trans": "Da Lat",
+        "covid_banner_exp_variant": 0,
+        "cvc_required": "0",
+        "default_language": "vi",
+        "default_wishlist_name": "Da Lat",
+        "departure_date": "2021-05-11",
+        "distance_to_cc": 5.04151473780812,
+        "domestic_no_cc": 0,
+        "duplicate_rates_removed": 0,
+        "family_facilities": [
+            "Soundproof rooms",
+            "Family rooms"
+        ],
+        "free_cancellation_recommendation": {
+            "action_modal": {
+                "details": "For bookings made on or after April 6, 2020, be sure to consider the risk of the coronavirus (COVID-19) and associated government measures. If you don’t book a flexible rate, you may not be entitled to a refund. Your cancellation request will be handled by the property, based on your chosen policy and consumer law where applicable. During times of uncertainty, we recommend booking an option with free cancellation. If your plans change, you can cancel free of charge until free cancellation expires.",
+                "title": "Check your booking conditions"
+            },
+            "banner": {
+                "action_text": "Read more",
+                "subtitle": "Starting April 6, 2020, your chosen cancellation policy will apply, regardless of the coronavirus. We recommend booking an option with free cancellation in case your travel plans change.",
+                "title": "Find a cancellation policy that works for you"
+            }
+        },
+        "hotel_facilities": "491,210,305,110,5,204,117,45,408,459,447,46,180,17,206,2,492,181,409,107,423,425,47,209,424,163,158,49,183,96,91,422,203,89,205,219,64,28,22,78,129,487,304,16,75",
+        "hotel_id": 7158046,
+        "hotel_include_breakfast": 0,
+        "hotel_name": "Villa Tuan Vu Wonder",
+        "hotel_name_trans": "",
+        "hotel_text": {
+            "important_information": "",
+            "policies": [
+                {
+                    "class": "POLICY_CANCELLATION",
+                    "content": "You can cancel free of charge until 60 days before arrival. You'll be charged the total price of the reservation if you cancel in the 60 days before arrival."
+                },
+                {
+                    "class": "POLICY_CHILDREN",
+                    "content": "Children cannot be accommodated at the hotel. There is no capacity for extra beds in the room.\nThe maximum number of total guests in a room is 4.\nThere is no capacity for cribs in the room.\n"
+                },
+                {
+                    "class": "POLICY_HOTEL_INTERNET",
+                    "content": "WiFi is available in all areas and is free of charge. "
+                },
+                {
+                    "class": "POLICY_HOTEL_PARKING",
+                    "content": "Free public parking is available  at a location nearby (reservation is needed). "
+                },
+                {
+                    "class": "POLICY_HOTEL_PETS",
+                    "content": "Pets are not allowed. "
+                },
+                {
+                    "class": "POLICY_PREPAY",
+                    "content": "You'll be charged a prepayment of the total price at any time."
+                },
+                {
+                    "class": "POLICY_PREAUTHORIZE",
+                    "content": "The property reserves the right to pre-authorize credit cards prior to arrival."
+                },
+                {
+                    "class": "POLICY_HOTEL_EXTRACHARGES",
+                    "content": "10 % VAT is included. 49 % Cleaning fee is excluded. 49 % Service charge is excluded. A City tax is not applicable.",
+                    "items": [
+                        "10 % VAT is included.",
+                        "49 % Cleaning fee is excluded.",
+                        "49 % Service charge is excluded.",
+                        "A City tax is not applicable."
+                    ]
+                }
+            ]
+        },
+        "info_banners": [
+            {
+                "collapsible": 1,
+                "dismissable": 0,
+                "id": "coronavirus",
+                "is_default_collapsed": 1,
+                "messages": [
+                    "Check for travel restrictions. Travel might only be permitted for certain purposes, and touristic travel in particular may not be allowed."
+                ],
+                "position_to_inject": 0,
+                "primary_action": {
+                    "action": "open-page",
+                    "action_context": "covid19-faq",
+                    "text": "Read more"
+                },
+                "priority": 100,
+                "secondary_action": null,
+                "show_after_dismissed": 1,
+                "show_after_dismissed_time": 24,
+                "title": "Coronavirus (COVID-19) support",
+                "type": "banner"
+            }
+        ],
+        "is_closed": 0,
+        "is_cpv2_property": 1,
+        "is_crimea": 0,
+        "is_hotel_ctrip": 0,
+        "is_preferred": 1,
+        "is_preferred_plus": 0,
+        "languages_spoken": {
+            "languagecode": [
+                "vi"
+            ]
+        },
+        "last_matching_block_index": 0,
+        "last_reservation": {
+            "country": null,
+            "countrycode": null,
+            "time": ""
+        },
+        "latitude": 11.9474488018546,
+        "longitude": 108.482991694443,
+        "max_rooms_in_reservation": 10,
+        "only_x_left": {
+            "post_select": {
+                "715804601_298865883_1_0_0": "You selected the last 3 rooms like this left on Booking.com!",
+                "715804601_298865883_2_0_0": "You selected the last 3 rooms like this left on Booking.com!",
+                "715804602_298865883_1_0_0": "You selected the last 3 rooms like this left on Booking.com!",
+                "715804602_298865883_2_0_0": "You selected the last 3 rooms like this left on Booking.com!",
+                "715804603_298865883_3_0_0": "You selected the last 3 rooms like this left on Booking.com!",
+                "715804603_298865883_4_0_0": "You selected the last 3 rooms like this left on Booking.com!"
+            },
+            "room_page": {
+                "715804601_298865883_1_0_0": "Only 3 rooms left on Booking.com",
+                "715804601_298865883_2_0_0": "Only 3 rooms left on Booking.com",
+                "715804602_298865883_1_0_0": "Only 3 rooms left on Booking.com",
+                "715804602_298865883_2_0_0": "Only 3 rooms left on Booking.com",
+                "715804603_298865883_3_0_0": "Only 3 rooms left on Booking.com",
+                "715804603_298865883_4_0_0": "Only 3 rooms left on Booking.com"
+            },
+            "rooms_list": {
+                "715804601_298865883_1_0_0": "Only 3 rooms left on Booking.com",
+                "715804601_298865883_2_0_0": "Only 3 rooms left on Booking.com",
+                "715804602_298865883_1_0_0": "Only 3 rooms left on Booking.com",
+                "715804602_298865883_2_0_0": "Only 3 rooms left on Booking.com",
+                "715804603_298865883_3_0_0": "Only 3 rooms left on Booking.com",
+                "715804603_298865883_4_0_0": "Only 3 rooms left on Booking.com"
+            }
+        },
+        "plq_sensitivity": "",
+        "preferences": [],
+        "room_recommendation": [
+            {
+                "adults": 1,
+                "babies": 0,
+                "block_id": "715804601_298865883_1_0_0",
+                "children": 0,
+                "number_of_extra_beds": 0,
+                "total_extra_bed_price": 0,
+                "total_extra_bed_price_in_hotel_currency": 0
+            }
+        ],
+        "soldout_rooms": [],
+        "spoken_languages": [
+            "vi"
+        ],
+        "timezone": "Asia/Ho_Chi_Minh",
+        "top_ufi_benefits": [
+            {
+                "icon": "icon_wifi",
+                "translated_name": "WiFi"
+            },
+            {
+                "icon": "icon_parkingfee",
+                "translated_name": "Parking"
+            },
+            {
+                "icon": "icon_family",
+                "translated_name": "Family rooms"
+            },
+            {
+                "icon": "icon_shuttle",
+                "translated_name": "Airport shuttle"
+            },
+            {
+                "icon": "icon_nonsmoking",
+                "translated_name": "Non-smoking rooms"
+            },
+            {
+                "icon": "icon_concierge",
+                "translated_name": "Room service"
+            }
+        ],
+        "total_blocks": 6,
+        "use_new_bui_icon_highlight": 0,
+        "wifi_review_score": {
+            "rating": "10.0"
+        },
+        "wl_dest_id": "city::-3712045"
+    }
+]

@@ -1,0 +1,824 @@
+[
+    {
+        "address_required": 1,
+        "address_trans": "",
+        "arrival_date": "2021-05-10",
+        "availability_blackout_applied": 0,
+        "available_deal_descriptions": [],
+        "b_legal_use_neutral_color_for_persuasion_legal": 0,
+        "b_sca_flow_property_user_ip": 0,
+        "block": [
+            {
+                "all_inclusive": 0,
+                "b_bsb_campaigns": [],
+                "b_bsd_reward_hp": null,
+                "babycots_available": 0,
+                "babycots_available_amount": null,
+                "bed_configurations": [
+                    {
+                        "bed_types": [
+                            {
+                                "bed_type": 1,
+                                "count": 1,
+                                "description": "90-130 cm wide",
+                                "description_imperial": "35-51 inches wide",
+                                "description_localized": null,
+                                "name": "Twin bed",
+                                "name_with_count": "1 twin bed"
+                            },
+                            {
+                                "bed_type": 6,
+                                "count": 1,
+                                "description": "151-180 cm wide",
+                                "description_imperial": "60-70 inches wide",
+                                "description_localized": null,
+                                "name": "Queen bed",
+                                "name_with_count": "1 queen bed"
+                            }
+                        ]
+                    }
+                ],
+                "block_id": "609465003_239335417_3_1_0",
+                "block_text": {
+                    "facilities": [
+                        "Air conditioning",
+                        "Balcony",
+                        "Private bathroom",
+                        "Soundproof",
+                        "View",
+                        "Electric kettle",
+                        "Hypoallergenic",
+                        "Towels",
+                        "Linens",
+                        "Toilet paper",
+                        "Trash cans"
+                    ],
+                    "free_facilities": [],
+                    "policies": [
+                        {
+                            "class": "POLICY_CANCELLATION",
+                            "content": "Note that if canceled, modified, or in case of no-show, the total price of the reservation will be charged."
+                        },
+                        {
+                            "class": "POLICY_PREPAY",
+                            "content": "No prepayment is needed."
+                        },
+                        {
+                            "class": "POLICY_HOTEL_MEALPLAN",
+                            "content": "Continental breakfast included",
+                            "mealplan_vector": "1"
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_INCLUDED",
+                            "content": "10% VAT"
+                        },
+                        {
+                            "class": "POLICY_TITLE",
+                            "content": "General"
+                        }
+                    ],
+                    "room_desc": ""
+                },
+                "breakfast_included": 1,
+                "can_reserve_free_parking": 0,
+                "deals": {
+                    "deal_attributes": {
+                        "has_multiple_deals": 0,
+                        "has_secret_channel_option": 0,
+                        "is_secret_channel": 0
+                    },
+                    "deal_events": [],
+                    "deal_events_killswitch": 0,
+                    "deals_available": {}
+                },
+                "deposit_required": 0,
+                "extrabed_available": 0,
+                "extrabed_available_amount": null,
+                "full_board": 0,
+                "genius_discount_percentage": 0,
+                "half_board": 0,
+                "incremental_price": [
+                    {
+                        "currency": "VND",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "28636.36",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": "286363.64"
+                        },
+                        "price": "315000.00"
+                    }
+                ],
+                "is_domestic_rate": 0,
+                "is_flash_deal": 0,
+                "is_genius_deal": null,
+                "is_genius_discount_geo": 0,
+                "is_last_minute_deal": 0,
+                "is_secret_deal": 0,
+                "is_smart_deal": 0,
+                "loyalty_reward_data": {
+                    "reward_detail": []
+                },
+                "max_children_free": 0,
+                "max_children_free_age": 12,
+                "max_occupancy": 3,
+                "mealplan": "Continental breakfast is included in the room rate.",
+                "min_price": {
+                    "currency": "VND",
+                    "extra_charges_breakdown": {
+                        "extra_charge": [
+                            {
+                                "amount": "28636.36",
+                                "charge_amount": "10.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": 0,
+                                "name": "VAT",
+                                "type": "VAT"
+                            }
+                        ],
+                        "net_price": "286363.64"
+                    },
+                    "price": "315000.00"
+                },
+                "must_reserve_free_parking": 0,
+                "name": "Superior Triple Room",
+                "name_without_policy": "Superior Triple Room",
+                "number_of_bathrooms": 1,
+                "photos": [
+                    {
+                        "new_order": 1,
+                        "photo_id": 243140454,
+                        "ratio": 1.34,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/243140454.jpg?k=3a5563e2c23a7ea0390c9ffa1950cf4f57a406ea54799fbdff2ccdd13cd8d825&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/243/243140454.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/243/243140454.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/243/243140454.jpg"
+                    },
+                    {
+                        "new_order": 2,
+                        "photo_id": 243140458,
+                        "ratio": 1.34,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/243140458.jpg?k=b10a55e86477f686a24f8ad1343f4718f0a0fb9e2217a8ffa4a0b1f651357fc2&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/243/243140458.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/243/243140458.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/243/243140458.jpg"
+                    },
+                    {
+                        "new_order": 3,
+                        "photo_id": 239908458,
+                        "ratio": 1.55228276877761,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/239908458.jpg?k=e0c041f88a4a1ff0c348037b2d45354e03c7c5ee14dfd83f634021e5e16c3f23&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/239/239908458.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/239/239908458.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/239/239908458.jpg"
+                    },
+                    {
+                        "new_order": 4,
+                        "photo_id": 240314199,
+                        "ratio": 1.60059435364042,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/240314199.jpg?k=19e7f5d8cc055055dd32b801f59021bc400f187078a5c6ee10d52ae5d0a6cf0b&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/240/240314199.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/240/240314199.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/240/240314199.jpg"
+                    },
+                    {
+                        "new_order": 0,
+                        "photo_id": 239909003,
+                        "ratio": 1.56208963745361,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/239909003.jpg?k=72bce2df34990c6fc88d1d900eaf50876ca31917cd98efed3cbc9b2ae7cc740f&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/239/239909003.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/239/239909003.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/239/239909003.jpg"
+                    },
+                    {
+                        "new_order": 5,
+                        "photo_id": 240314193,
+                        "ratio": 1.5,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/240314193.jpg?k=d188dfcc754ced5514e20f31f807e0e0a8c8c6cb3658cf5eeef716a33283d444&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/240/240314193.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/240/240314193.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/240/240314193.jpg"
+                    }
+                ],
+                "photos_may_sorted": 1,
+                "pod_ios_migrate_policies_to_smp_fullon": 0,
+                "rack_rate": {
+                    "currency": "VND",
+                    "price": "0.00"
+                },
+                "rate_type_id": 0,
+                "refundable": 0,
+                "refundable_until": "",
+                "room_count": 2,
+                "room_highlights": [
+                    {
+                        "icon": "icon_airconditioning",
+                        "id": 11,
+                        "translated_name": "Air conditioning"
+                    },
+                    {
+                        "icon": "icon_private-shower",
+                        "id": 38,
+                        "translated_name": "Private bathroom"
+                    },
+                    {
+                        "icon": "icon_soundproof",
+                        "id": 79,
+                        "translated_name": "Soundproof"
+                    },
+                    {
+                        "icon": "icon_viewed",
+                        "id": 81,
+                        "translated_name": "Balcony with view"
+                    }
+                ],
+                "room_id": 609465003,
+                "room_name": "Superior Triple Room",
+                "room_surface_in_feet2": 258.3338496,
+                "room_surface_in_m2": "24.00",
+                "roomtype_id": 7,
+                "smoking": 0
+            },
+            {
+                "all_inclusive": 0,
+                "b_bsb_campaigns": [],
+                "b_bsd_reward_hp": null,
+                "babycots_available": 0,
+                "babycots_available_amount": null,
+                "bed_configurations": [
+                    {
+                        "bed_types": [
+                            {
+                                "bed_type": 6,
+                                "count": 2,
+                                "description": "151-180 cm wide",
+                                "description_imperial": "60-70 inches wide",
+                                "description_localized": null,
+                                "name": "Queen beds",
+                                "name_with_count": "2 queen beds"
+                            }
+                        ]
+                    }
+                ],
+                "block_id": "609465004_239335417_4_1_0",
+                "block_text": {
+                    "facilities": [
+                        "Air conditioning",
+                        "Balcony",
+                        "Private bathroom",
+                        "Soundproof",
+                        "View",
+                        "Electric kettle",
+                        "Hypoallergenic",
+                        "Towels",
+                        "Linens",
+                        "Toilet paper",
+                        "Trash cans"
+                    ],
+                    "free_facilities": [],
+                    "policies": [
+                        {
+                            "class": "POLICY_CANCELLATION",
+                            "content": "Note that if canceled, modified, or in case of no-show, the total price of the reservation will be charged."
+                        },
+                        {
+                            "class": "POLICY_PREPAY",
+                            "content": "No prepayment is needed."
+                        },
+                        {
+                            "class": "POLICY_HOTEL_MEALPLAN",
+                            "content": "Continental breakfast included",
+                            "mealplan_vector": "1"
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_INCLUDED",
+                            "content": "10% VAT"
+                        },
+                        {
+                            "class": "POLICY_TITLE",
+                            "content": "General"
+                        }
+                    ],
+                    "room_desc": ""
+                },
+                "breakfast_included": 1,
+                "can_reserve_free_parking": 0,
+                "deals": {
+                    "deal_attributes": {
+                        "has_multiple_deals": 0,
+                        "has_secret_channel_option": 0,
+                        "is_secret_channel": 0
+                    },
+                    "deal_events": [],
+                    "deal_events_killswitch": 0,
+                    "deals_available": {}
+                },
+                "deposit_required": 0,
+                "extrabed_available": 0,
+                "extrabed_available_amount": null,
+                "full_board": 0,
+                "genius_discount_percentage": 0,
+                "half_board": 0,
+                "incremental_price": [
+                    {
+                        "currency": "VND",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "40909.09",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 0,
+                                    "name": "VAT",
+                                    "type": "VAT"
+                                }
+                            ],
+                            "net_price": "409090.91"
+                        },
+                        "price": "450000.00"
+                    }
+                ],
+                "is_domestic_rate": 0,
+                "is_flash_deal": 0,
+                "is_genius_deal": null,
+                "is_genius_discount_geo": 0,
+                "is_last_minute_deal": 0,
+                "is_secret_deal": 0,
+                "is_smart_deal": 0,
+                "loyalty_reward_data": {
+                    "reward_detail": []
+                },
+                "max_children_free": 0,
+                "max_children_free_age": 12,
+                "max_occupancy": 4,
+                "mealplan": "Continental breakfast is included in the room rate.",
+                "min_price": {
+                    "currency": "VND",
+                    "extra_charges_breakdown": {
+                        "extra_charge": [
+                            {
+                                "amount": "40909.09",
+                                "charge_amount": "10.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": 0,
+                                "name": "VAT",
+                                "type": "VAT"
+                            }
+                        ],
+                        "net_price": "409090.91"
+                    },
+                    "price": "450000.00"
+                },
+                "must_reserve_free_parking": 0,
+                "name": "Family Room with Garden View",
+                "name_without_policy": "Family Room with Garden View",
+                "number_of_bathrooms": 1,
+                "photos": [
+                    {
+                        "new_order": 0,
+                        "photo_id": 240314875,
+                        "ratio": 0.730769230769231,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/240314875.jpg?k=26301d5f2da4dfc14d7d53f162c017dd54a7d2140bf76bb0172950fb21bb7140&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/240/240314875.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/240/240314875.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/240/240314875.jpg"
+                    },
+                    {
+                        "new_order": 2,
+                        "photo_id": 240314199,
+                        "ratio": 1.60059435364042,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/240314199.jpg?k=19e7f5d8cc055055dd32b801f59021bc400f187078a5c6ee10d52ae5d0a6cf0b&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/240/240314199.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/240/240314199.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/240/240314199.jpg"
+                    },
+                    {
+                        "new_order": 3,
+                        "photo_id": 240314193,
+                        "ratio": 1.5,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/240314193.jpg?k=d188dfcc754ced5514e20f31f807e0e0a8c8c6cb3658cf5eeef716a33283d444&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/240/240314193.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/240/240314193.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/240/240314193.jpg"
+                    },
+                    {
+                        "new_order": 1,
+                        "photo_id": 239909003,
+                        "ratio": 1.56208963745361,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/239909003.jpg?k=72bce2df34990c6fc88d1d900eaf50876ca31917cd98efed3cbc9b2ae7cc740f&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/239/239909003.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/239/239909003.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/239/239909003.jpg"
+                    },
+                    {
+                        "new_order": 4,
+                        "photo_id": 239908458,
+                        "ratio": 1.55228276877761,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/239908458.jpg?k=e0c041f88a4a1ff0c348037b2d45354e03c7c5ee14dfd83f634021e5e16c3f23&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/239/239908458.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/239/239908458.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/239/239908458.jpg"
+                    },
+                    {
+                        "new_order": 5,
+                        "photo_id": 239908421,
+                        "ratio": 1.5,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/239908421.jpg?k=d33fd96b57ab461cddc99774a75a3ded3e2be8c1357e46bbca46a3df39a55e3d&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/239/239908421.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/239/239908421.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/239/239908421.jpg"
+                    },
+                    {
+                        "new_order": 6,
+                        "photo_id": 239908191,
+                        "ratio": 1.69569377990431,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/239908191.jpg?k=c2820b174fc1a90bfd31fce48640d1eb087b5945c9aca840df22c39526ab2d2e&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/239/239908191.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/239/239908191.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/239/239908191.jpg"
+                    }
+                ],
+                "photos_may_sorted": 1,
+                "pod_ios_migrate_policies_to_smp_fullon": 0,
+                "rack_rate": {
+                    "currency": "VND",
+                    "price": "0.00"
+                },
+                "rate_type_id": 0,
+                "refundable": 0,
+                "refundable_until": "",
+                "room_count": 1,
+                "room_highlights": [
+                    {
+                        "icon": "icon_airconditioning",
+                        "id": 11,
+                        "translated_name": "Air conditioning"
+                    },
+                    {
+                        "icon": "icon_private-shower",
+                        "id": 38,
+                        "translated_name": "Private bathroom"
+                    },
+                    {
+                        "icon": "icon_soundproof",
+                        "id": 79,
+                        "translated_name": "Soundproof"
+                    },
+                    {
+                        "icon": "icon_viewed",
+                        "id": 81,
+                        "translated_name": "Balcony with view"
+                    }
+                ],
+                "room_id": 609465004,
+                "room_name": "Family Room with Garden View",
+                "room_surface_in_feet2": 258.3338496,
+                "room_surface_in_m2": "24.00",
+                "roomtype_id": 13,
+                "smoking": 0
+            }
+        ],
+        "booking_home": {
+            "group": "hotels_and_others",
+            "is_aparthotel": 0,
+            "is_booking_home": 1,
+            "is_single_type_property": 0,
+            "is_single_unit_property": 0,
+            "is_vacation_rental": 1,
+            "quality_class": null,
+            "segment": 0
+        },
+        "breakfast_review_score": {
+            "rating": 0,
+            "review_count": 0,
+            "review_number": 0,
+            "review_score": 0,
+            "review_score_word": "",
+            "review_snippet": ""
+        },
+        "cc_required": "0",
+        "check_only_x_left": 1,
+        "city_trans": "Ninh Binh",
+        "covid_banner_exp_variant": 1,
+        "cvc_required": "0",
+        "default_language": "en-gb",
+        "default_wishlist_name": "Ninh Binh",
+        "departure_date": "2021-05-11",
+        "distance_to_cc": 6.23507535199677,
+        "domestic_no_cc": 0,
+        "duplicate_rates_removed": 0,
+        "family_facilities": [
+            "Family rooms",
+            "Soundproof rooms"
+        ],
+        "free_cancellation_recommendation": {
+            "action_modal": {
+                "details": "For bookings made on or after April 6, 2020, be sure to consider the risk of the coronavirus (COVID-19) and associated government measures. If you don’t book a flexible rate, you may not be entitled to a refund. Your cancellation request will be handled by the property, based on your chosen policy and consumer law where applicable. During times of uncertainty, we recommend booking an option with free cancellation. If your plans change, you can cancel free of charge until free cancellation expires.",
+                "title": "Check your booking conditions"
+            },
+            "banner": {
+                "action_text": "Read more",
+                "subtitle": "We recommend booking an option with free cancellation in case your travel plans change.",
+                "title": "As of April 6, 2020, your chosen cancellation policy will apply, regardless of the coronavirus."
+            }
+        },
+        "hotel_facilities": "409,14,204,304,89,240,91,44,160,109,28,64,101,52,2,418,73,55,305,4,47,129,140,425,46,78,65,179,434,447,17,16",
+        "hotel_id": 6094650,
+        "hotel_include_breakfast": 1,
+        "hotel_name": "Nam Nhung Tam Coc Homestay",
+        "hotel_name_trans": "",
+        "hotel_text": {
+            "important_information": "This property does not accommodate bachelor(ette) or similar parties.",
+            "policies": [
+                {
+                    "class": "POLICY_CANCELLATION",
+                    "content": "You can cancel free of charge until 7 days before arrival. You'll be charged the total price of the reservation if you cancel in the 7 days before arrival."
+                },
+                {
+                    "class": "POLICY_CHILDREN",
+                    "content": "All children are welcome. There is no capacity for extra beds in the room.\nThe maximum number of total guests in a room is 2.\nThere is no capacity for cribs in the room.\n"
+                },
+                {
+                    "class": "POLICY_HOTEL_INTERNET",
+                    "content": "Wired internet is available in public areas and is free of charge. "
+                },
+                {
+                    "class": "POLICY_HOTEL_PARKING",
+                    "content": "Free public parking is available  on site (reservation is not possible). "
+                },
+                {
+                    "class": "POLICY_HOTEL_PETS",
+                    "content": "Pets are allowed. No extra charges. "
+                },
+                {
+                    "class": "POLICY_PREPAY",
+                    "content": "No prepayment is needed."
+                },
+                {
+                    "class": "POLICY_PREAUTHORIZE",
+                    "content": "The property reserves the right to pre-authorize credit cards prior to arrival."
+                },
+                {
+                    "class": "POLICY_HOTEL_EXTRACHARGES",
+                    "content": "10 % VAT is included. A City tax is not applicable. A Service charge is not applicable.",
+                    "items": [
+                        "10 % VAT is included.",
+                        "A City tax is not applicable.",
+                        "A Service charge is not applicable."
+                    ]
+                }
+            ]
+        },
+        "info_banners": [
+            {
+                "collapsible": 1,
+                "dismissable": 0,
+                "id": "coronavirus",
+                "is_default_collapsed": 1,
+                "messages": [
+                    "Check for travel restrictions. Travel might only be permitted for certain purposes, and touristic travel in particular may not be allowed."
+                ],
+                "position_to_inject": 0,
+                "primary_action": {
+                    "action": "open-page",
+                    "action_context": "covid19-faq",
+                    "text": "Read more"
+                },
+                "priority": 100,
+                "secondary_action": null,
+                "show_after_dismissed": 1,
+                "show_after_dismissed_time": 24,
+                "title": "Coronavirus (COVID-19) support",
+                "type": "banner"
+            }
+        ],
+        "is_closed": 0,
+        "is_cpv2_property": 1,
+        "is_crimea": 0,
+        "is_hotel_ctrip": 0,
+        "is_preferred": 0,
+        "is_preferred_plus": 0,
+        "is_single_unit_vr": 0,
+        "languages_spoken": {
+            "languagecode": [
+                "vi",
+                "en-gb"
+            ]
+        },
+        "last_matching_block_index": 0,
+        "last_reservation": {
+            "country": null,
+            "countrycode": null,
+            "time": ""
+        },
+        "latitude": 20.2117895,
+        "longitude": 105.9355381,
+        "max_rooms_in_reservation": 10,
+        "only_x_left": {
+            "post_select": {
+                "609465003_239335417_3_1_0": "You selected the last room like this left on Booking.com!",
+                "609465004_239335417_4_1_0": "You selected the last room like this left on Booking.com!"
+            },
+            "room_page": {
+                "609465003_239335417_3_1_0": "Only 1 room left on Booking.com",
+                "609465004_239335417_4_1_0": "Only 1 room left on Booking.com"
+            },
+            "rooms_list": {
+                "609465003_239335417_3_1_0": "Only 1 room left on Booking.com",
+                "609465004_239335417_4_1_0": "Only 1 room left on Booking.com"
+            }
+        },
+        "plq_sensitivity": "",
+        "preferences": [],
+        "room_recommendation": [
+            {
+                "adults": 1,
+                "babies": 0,
+                "block_id": "609465003_239335417_3_1_0",
+                "children": 0,
+                "number_of_extra_beds": 0,
+                "total_extra_bed_price": 0,
+                "total_extra_bed_price_in_hotel_currency": 0
+            }
+        ],
+        "soldout_rooms": [
+            {
+                "average_price": {},
+                "max_occupancy": 2,
+                "name": "Superior King Room",
+                "photos": [
+                    {
+                        "photo_id": 238687559,
+                        "ratio": 1.65564998426188,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/238687559.jpg?k=49e2f47eb9d62a7432073bc2eb9cde54b3c6ed4a4306ed326f82bf2261b28b1f&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/238/238687559.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/238/238687559.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/238/238687559.jpg"
+                    },
+                    {
+                        "photo_id": 240314600,
+                        "ratio": 1.78504359490275,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/240314600.jpg?k=3919eae863dcc4eb45945116b0eb6f123d97fda1517850c6a963a9e1dd582996&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/240/240314600.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/240/240314600.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/240/240314600.jpg"
+                    },
+                    {
+                        "photo_id": 240314199,
+                        "ratio": 1.60059435364042,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/240314199.jpg?k=19e7f5d8cc055055dd32b801f59021bc400f187078a5c6ee10d52ae5d0a6cf0b&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/240/240314199.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/240/240314199.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/240/240314199.jpg"
+                    },
+                    {
+                        "photo_id": 240314193,
+                        "ratio": 1.5,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/240314193.jpg?k=d188dfcc754ced5514e20f31f807e0e0a8c8c6cb3658cf5eeef716a33283d444&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/240/240314193.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/240/240314193.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/240/240314193.jpg"
+                    },
+                    {
+                        "photo_id": 239909003,
+                        "ratio": 1.56208963745361,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/239909003.jpg?k=72bce2df34990c6fc88d1d900eaf50876ca31917cd98efed3cbc9b2ae7cc740f&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/239/239909003.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/239/239909003.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/239/239909003.jpg"
+                    },
+                    {
+                        "photo_id": 239908458,
+                        "ratio": 1.55228276877761,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/239908458.jpg?k=e0c041f88a4a1ff0c348037b2d45354e03c7c5ee14dfd83f634021e5e16c3f23&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/239/239908458.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/239/239908458.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/239/239908458.jpg"
+                    }
+                ],
+                "room_id": 609465001
+            },
+            {
+                "average_price": {},
+                "max_occupancy": 2,
+                "name": "Double Room with Garden View",
+                "photos": [
+                    {
+                        "photo_id": 240315072,
+                        "ratio": 1.58287532542667,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/240315072.jpg?k=1d81cfa1b4d4069065598a64185d8e89a2abcc5f674996d985860a7028dbb9b9&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/240/240315072.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/240/240315072.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/240/240315072.jpg"
+                    },
+                    {
+                        "photo_id": 240314875,
+                        "ratio": 0.730769230769231,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/240314875.jpg?k=26301d5f2da4dfc14d7d53f162c017dd54a7d2140bf76bb0172950fb21bb7140&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/240/240314875.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/240/240314875.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/240/240314875.jpg"
+                    },
+                    {
+                        "photo_id": 240314600,
+                        "ratio": 1.78504359490275,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/240314600.jpg?k=3919eae863dcc4eb45945116b0eb6f123d97fda1517850c6a963a9e1dd582996&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/240/240314600.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/240/240314600.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/240/240314600.jpg"
+                    },
+                    {
+                        "photo_id": 240314541,
+                        "ratio": 1.55542922114838,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/240314541.jpg?k=9b8c638fcf77551ea845a7731b5069a2b10caa99e06335537fbf909d35ad62ff&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/240/240314541.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/240/240314541.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/240/240314541.jpg"
+                    },
+                    {
+                        "photo_id": 240314601,
+                        "ratio": 1.5,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/240314601.jpg?k=1e3bc2f82d2ef95b4270d189b429385782e113a6de637ab14dd93df6cdb0f892&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/240/240314601.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/240/240314601.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/240/240314601.jpg"
+                    },
+                    {
+                        "photo_id": 239908458,
+                        "ratio": 1.55228276877761,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/239908458.jpg?k=e0c041f88a4a1ff0c348037b2d45354e03c7c5ee14dfd83f634021e5e16c3f23&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/239/239908458.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/239/239908458.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/239/239908458.jpg"
+                    },
+                    {
+                        "photo_id": 240314199,
+                        "ratio": 1.60059435364042,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/240314199.jpg?k=19e7f5d8cc055055dd32b801f59021bc400f187078a5c6ee10d52ae5d0a6cf0b&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/240/240314199.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/240/240314199.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/240/240314199.jpg"
+                    },
+                    {
+                        "photo_id": 239908421,
+                        "ratio": 1.5,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/239908421.jpg?k=d33fd96b57ab461cddc99774a75a3ded3e2be8c1357e46bbca46a3df39a55e3d&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/239/239908421.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/239/239908421.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/239/239908421.jpg"
+                    },
+                    {
+                        "photo_id": 239909003,
+                        "ratio": 1.56208963745361,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/239909003.jpg?k=72bce2df34990c6fc88d1d900eaf50876ca31917cd98efed3cbc9b2ae7cc740f&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/239/239909003.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/239/239909003.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/239/239909003.jpg"
+                    },
+                    {
+                        "photo_id": 240314193,
+                        "ratio": 1.5,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/240314193.jpg?k=d188dfcc754ced5514e20f31f807e0e0a8c8c6cb3658cf5eeef716a33283d444&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/240/240314193.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/240/240314193.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/240/240314193.jpg"
+                    }
+                ],
+                "room_id": 609465002
+            }
+        ],
+        "spoken_languages": [
+            "vi",
+            "en-gb"
+        ],
+        "timezone": "Asia/Ho_Chi_Minh",
+        "top_ufi_benefits": [
+            {
+                "icon": "icon_shuttle",
+                "translated_name": "Airport shuttle"
+            },
+            {
+                "icon": "icon_parkingfee",
+                "translated_name": "Parking"
+            },
+            {
+                "icon": "icon_family",
+                "translated_name": "Family rooms"
+            }
+        ],
+        "total_blocks": 2,
+        "use_new_bui_icon_highlight": 0,
+        "wl_dest_id": "city::-3724181"
+    }
+]

@@ -1,0 +1,1164 @@
+[
+    {
+        "address_required": 0,
+        "address_trans": "",
+        "arrival_date": "2021-05-08",
+        "availability_blackout_applied": 0,
+        "available_deal_descriptions": [],
+        "b_legal_use_neutral_color_for_persuasion_legal": 0,
+        "b_sca_flow_property_user_ip": 0,
+        "block": [
+            {
+                "all_inclusive": 0,
+                "b_bsb_campaigns": [],
+                "b_bsd_reward_hp": null,
+                "babycots_available": 0,
+                "babycots_available_amount": null,
+                "bed_configurations": [
+                    {
+                        "bed_types": [
+                            {
+                                "bed_type": 3,
+                                "count": 2,
+                                "description": "181-210 cm wide",
+                                "description_imperial": "71-82 inches wide",
+                                "name": "King bed(s)",
+                                "name_with_count": "2 king beds"
+                            },
+                            {
+                                "bed_type": 5,
+                                "count": 1,
+                                "description": "Variable size",
+                                "description_imperial": "",
+                                "name": "Sofa bed(s)",
+                                "name_with_count": "1 sofa bed"
+                            },
+                            {
+                                "bed_type": 7,
+                                "count": 2,
+                                "description": "Variable size",
+                                "description_imperial": "",
+                                "name": "Futon bed(s)",
+                                "name_with_count": "2 futon beds"
+                            }
+                        ]
+                    }
+                ],
+                "block_id": "418944010_297997072_8_0_0",
+                "block_text": {
+                    "facilities": [
+                        "Air conditioning",
+                        "Balcony",
+                        "Refrigerator",
+                        "Private bathroom",
+                        "Kitchen",
+                        "Flat-screen TV",
+                        "Stovetop",
+                        "Ocean view",
+                        "Dining table",
+                        "Saltwater pool"
+                    ],
+                    "free_facilities": [],
+                    "policies": [
+                        {
+                            "class": "POLICY_CANCELLATION",
+                            "content": "Note that if canceled, modified, or in case of no-show, the total price of the reservation will be charged."
+                        },
+                        {
+                            "class": "POLICY_PREPAY",
+                            "content": "You'll be charged a prepayment of the total price at any time."
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_EXCLUDED",
+                            "content": "5% Service charge, 5% Cleaning fee, 5% Towel fee, 10% Electricity fee, 5% Gas fee, 5% Water usage fee"
+                        },
+                        {
+                            "class": "POLICY_TITLE",
+                            "content": "General"
+                        }
+                    ],
+                    "room_desc": ""
+                },
+                "breakfast_included": 0,
+                "can_reserve_free_parking": 0,
+                "deals": {
+                    "deal_attributes": {
+                        "has_multiple_deals": 0,
+                        "has_secret_channel_option": 0,
+                        "is_secret_channel": 0
+                    },
+                    "deal_events": [],
+                    "deal_events_killswitch": 0,
+                    "deals_available": {}
+                },
+                "deposit_required": 1,
+                "extrabed_available": 0,
+                "extrabed_available_amount": null,
+                "full_board": 0,
+                "genius_discount_percentage": 0,
+                "half_board": 0,
+                "incremental_price": [
+                    {
+                        "currency": "VND",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "37500.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "37500.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Gas fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "37500.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Water usage fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "75000.00",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Electricity fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "37500.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "37500.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Towel fee",
+                                    "type": "SERVICECHARGE"
+                                }
+                            ],
+                            "net_price": "750000.00"
+                        },
+                        "price": "750000.00"
+                    },
+                    {
+                        "currency": "VND",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "75000.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "75000.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Gas fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "75000.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Water usage fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "150000.00",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Electricity fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "75000.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "75000.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Towel fee",
+                                    "type": "SERVICECHARGE"
+                                }
+                            ],
+                            "net_price": "1500000.00"
+                        },
+                        "price": "1500000.00"
+                    },
+                    {
+                        "currency": "VND",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "112500.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "112500.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Gas fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "112500.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Water usage fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "225000.00",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Electricity fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "112500.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "112500.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Towel fee",
+                                    "type": "SERVICECHARGE"
+                                }
+                            ],
+                            "net_price": "2250000.00"
+                        },
+                        "price": "2250000.00"
+                    },
+                    {
+                        "currency": "VND",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "150000.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "150000.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Gas fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "150000.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Water usage fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "300000.00",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Electricity fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "150000.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "150000.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Towel fee",
+                                    "type": "SERVICECHARGE"
+                                }
+                            ],
+                            "net_price": "3000000.00"
+                        },
+                        "price": "3000000.00"
+                    },
+                    {
+                        "currency": "VND",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "187500.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "187500.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Gas fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "187500.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Water usage fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "375000.00",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Electricity fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "187500.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "187500.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Towel fee",
+                                    "type": "SERVICECHARGE"
+                                }
+                            ],
+                            "net_price": "3750000.00"
+                        },
+                        "price": "3750000.00"
+                    }
+                ],
+                "is_domestic_rate": 0,
+                "is_flash_deal": 0,
+                "is_genius_deal": null,
+                "is_genius_discount_geo": 0,
+                "is_last_minute_deal": 0,
+                "is_secret_deal": 0,
+                "is_smart_deal": 0,
+                "loyalty_reward_data": {
+                    "reward_detail": []
+                },
+                "max_children_free": 0,
+                "max_children_free_age": 12,
+                "max_occupancy": 8,
+                "mealplan": "There is no meal option with this room.",
+                "min_price": {
+                    "currency": "VND",
+                    "extra_charges_breakdown": {
+                        "extra_charge": [
+                            {
+                                "amount": "37500.00",
+                                "charge_amount": "5.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": "1",
+                                "name": "Cleaning fee",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "37500.00",
+                                "charge_amount": "5.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": "1",
+                                "name": "Gas fee",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "37500.00",
+                                "charge_amount": "5.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": "1",
+                                "name": "Water usage fee",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "75000.00",
+                                "charge_amount": "10.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": "1",
+                                "name": "Electricity fee",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "37500.00",
+                                "charge_amount": "5.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": "1",
+                                "name": "Service charge",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "37500.00",
+                                "charge_amount": "5.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": "1",
+                                "name": "Towel fee",
+                                "type": "SERVICECHARGE"
+                            }
+                        ],
+                        "net_price": "750000.00"
+                    },
+                    "price": "750000.00"
+                },
+                "must_reserve_free_parking": 0,
+                "name": "Two-Bedroom Apartment",
+                "name_without_policy": "Two-Bedroom Apartment",
+                "number_of_bathrooms": 3,
+                "photos": [
+                    {
+                        "new_order": 0,
+                        "photo_id": 296406585,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/296406585.jpg?k=e5f1a31d10d656a788fbee3bcdc24b1816cedf97b635dae0d5476d8f77816879&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/296/296406585.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/296/296406585.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/296/296406585.jpg"
+                    },
+                    {
+                        "new_order": 1,
+                        "photo_id": 296406577,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/296406577.jpg?k=af18510cc950eda213ac86741b127560d889d59c37ee132816352390930a2bdc&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/296/296406577.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/296/296406577.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/296/296406577.jpg"
+                    },
+                    {
+                        "new_order": 2,
+                        "photo_id": 296406570,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/296406570.jpg?k=213da98b63815a9590261322daae9d52bbfd7bf35ac5728fa549d4abaccdaf4c&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/296/296406570.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/296/296406570.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/296/296406570.jpg"
+                    },
+                    {
+                        "new_order": 3,
+                        "photo_id": 296406542,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/296406542.jpg?k=eb1b2a48fbf1427766787d256822ac31735faf3a0c91720a38e84cf595f29d33&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/296/296406542.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/296/296406542.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/296/296406542.jpg"
+                    },
+                    {
+                        "new_order": 4,
+                        "photo_id": 296406522,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/296406522.jpg?k=22eb5346df1c92337866c2414888ef8400ff31145545d4e22db2ce0602689cf4&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/296/296406522.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/296/296406522.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/296/296406522.jpg"
+                    },
+                    {
+                        "new_order": 5,
+                        "photo_id": 296406509,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/296406509.jpg?k=7edc19c35ea240b7c9ecf24957ac0ba7114dbf84c0e4b173adf88f709cad903a&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/296/296406509.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/296/296406509.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/296/296406509.jpg"
+                    },
+                    {
+                        "new_order": 6,
+                        "photo_id": 296406505,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/296406505.jpg?k=db1ad1b4bd5bf0edb0379d8cf2447caffb6475a4c22cbe3e1fb80598619d8231&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/296/296406505.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/296/296406505.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/296/296406505.jpg"
+                    },
+                    {
+                        "new_order": 7,
+                        "photo_id": 296406500,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/296406500.jpg?k=982e84bd0b4506ca0005cce8af55265ef760302b82aebdb140408aa5ba36186c&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/296/296406500.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/296/296406500.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/296/296406500.jpg"
+                    },
+                    {
+                        "new_order": 8,
+                        "photo_id": 296406498,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/296406498.jpg?k=ea756d3eec332403cb6ec52cd65ce27da90af072237373cfbc95c99449e4d93c&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/296/296406498.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/296/296406498.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/296/296406498.jpg"
+                    },
+                    {
+                        "new_order": 9,
+                        "photo_id": 296406494,
+                        "ratio": 1.33333333333333,
+                        "url_640x200": "https://cf.bstatic.com/xdata/images/hotel/640x200/296406494.jpg?k=e9112056c1c433c053a25686c8dc86e7bb9f43c6f46f53fc95665c0aaaf8dbe7&o=",
+                        "url_max300": "https://cf.bstatic.com/images/hotel/max300/296/296406494.jpg",
+                        "url_original": "https://cf.bstatic.com/images/hotel/max500/296/296406494.jpg",
+                        "url_square60": "https://cf.bstatic.com/images/hotel/square60/296/296406494.jpg"
+                    }
+                ],
+                "pod_ios_migrate_policies_to_smp_fullon": 0,
+                "rack_rate": {
+                    "currency": "VND",
+                    "price": "0.00"
+                },
+                "rate_type_id": 47,
+                "refundable": 0,
+                "refundable_until": "",
+                "room_count": 10,
+                "room_highlights": [
+                    {
+                        "icon": "icon_wifi",
+                        "key": "wifi",
+                        "translated_name": "Free WiFi"
+                    },
+                    {
+                        "icon": "icon_airconditioning",
+                        "id": 11,
+                        "translated_name": "Air conditioning"
+                    },
+                    {
+                        "icon": "icon_private-shower",
+                        "id": 38,
+                        "translated_name": "Private bathroom"
+                    },
+                    {
+                        "icon": "icon_platefork",
+                        "id": 45,
+                        "translated_name": "Kitchen"
+                    }
+                ],
+                "room_id": 418944010,
+                "room_name": "Two-Bedroom Apartment",
+                "room_surface_in_feet2": 753.473728,
+                "room_surface_in_m2": "70.00",
+                "roomtype_id": 1,
+                "smoking": 0
+            },
+            {
+                "all_inclusive": 0,
+                "b_bsb_campaigns": [],
+                "b_bsd_reward_hp": null,
+                "babycots_available": 0,
+                "babycots_available_amount": null,
+                "bed_configurations": [
+                    {
+                        "bed_types": [
+                            {
+                                "bed_type": 3,
+                                "count": 4,
+                                "description": "181-210 cm wide",
+                                "description_imperial": "71-82 inches wide",
+                                "name": "King bed(s)",
+                                "name_with_count": "4 king beds"
+                            },
+                            {
+                                "bed_type": 7,
+                                "count": 4,
+                                "description": "Variable size",
+                                "description_imperial": "",
+                                "name": "Futon bed(s)",
+                                "name_with_count": "4 futon beds"
+                            },
+                            {
+                                "bed_type": 5,
+                                "count": 1,
+                                "description": "Variable size",
+                                "description_imperial": "",
+                                "name": "Sofa bed(s)",
+                                "name_with_count": "1 sofa bed"
+                            }
+                        ]
+                    }
+                ],
+                "biggest_room": 1,
+                "block_id": "418944008_297997072_10_0_0",
+                "block_text": {
+                    "facilities": [
+                        "Air conditioning",
+                        "Balcony",
+                        "Refrigerator",
+                        "Private bathroom",
+                        "Kitchen",
+                        "Flat-screen TV",
+                        "Stovetop",
+                        "Ocean view",
+                        "Dining table",
+                        "Saltwater pool"
+                    ],
+                    "free_facilities": [],
+                    "policies": [
+                        {
+                            "class": "POLICY_CANCELLATION",
+                            "content": "Note that if canceled, modified, or in case of no-show, the total price of the reservation will be charged."
+                        },
+                        {
+                            "class": "POLICY_PREPAY",
+                            "content": "You'll be charged a prepayment of the total price at any time."
+                        },
+                        {
+                            "class": "POLICY_SUMMARY_EXCLUDED",
+                            "content": "5% Service charge, 5% Cleaning fee, 5% Towel fee, 10% Electricity fee, 5% Gas fee, 5% Water usage fee"
+                        },
+                        {
+                            "class": "POLICY_TITLE",
+                            "content": "General"
+                        }
+                    ],
+                    "room_desc": ""
+                },
+                "breakfast_included": 0,
+                "can_reserve_free_parking": 0,
+                "deals": {
+                    "deal_attributes": {
+                        "has_multiple_deals": 0,
+                        "has_secret_channel_option": 0,
+                        "is_secret_channel": 0
+                    },
+                    "deal_events": [],
+                    "deal_events_killswitch": 0,
+                    "deals_available": {}
+                },
+                "deposit_required": 1,
+                "extrabed_available": 0,
+                "extrabed_available_amount": null,
+                "full_board": 0,
+                "genius_discount_percentage": 0,
+                "half_board": 0,
+                "incremental_price": [
+                    {
+                        "currency": "VND",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "112500.00",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Electricity fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "56250.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "56250.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Gas fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "56250.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Water usage fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "56250.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Towel fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "56250.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                }
+                            ],
+                            "net_price": "1125000.00"
+                        },
+                        "price": "1125000.00"
+                    },
+                    {
+                        "currency": "VND",
+                        "extra_charges_breakdown": {
+                            "extra_charge": [
+                                {
+                                    "amount": "225000.00",
+                                    "charge_amount": "10.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Electricity fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "112500.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Cleaning fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "112500.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Gas fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "112500.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Water usage fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "112500.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Towel fee",
+                                    "type": "SERVICECHARGE"
+                                },
+                                {
+                                    "amount": "112500.00",
+                                    "charge_amount": "5.00",
+                                    "charge_price_mode": 5,
+                                    "currency": "VND",
+                                    "excluded": 1,
+                                    "name": "Service charge",
+                                    "type": "SERVICECHARGE"
+                                }
+                            ],
+                            "net_price": "2250000.00"
+                        },
+                        "price": "2250000.00"
+                    }
+                ],
+                "is_domestic_rate": 0,
+                "is_flash_deal": 0,
+                "is_genius_deal": null,
+                "is_genius_discount_geo": 0,
+                "is_last_minute_deal": 0,
+                "is_secret_deal": 0,
+                "is_smart_deal": 0,
+                "loyalty_reward_data": {
+                    "reward_detail": []
+                },
+                "max_children_free": 0,
+                "max_children_free_age": 12,
+                "max_occupancy": 10,
+                "mealplan": "There is no meal option with this room.",
+                "min_price": {
+                    "currency": "VND",
+                    "extra_charges_breakdown": {
+                        "extra_charge": [
+                            {
+                                "amount": "112500.00",
+                                "charge_amount": "10.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": "1",
+                                "name": "Electricity fee",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "56250.00",
+                                "charge_amount": "5.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": "1",
+                                "name": "Cleaning fee",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "56250.00",
+                                "charge_amount": "5.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": "1",
+                                "name": "Gas fee",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "56250.00",
+                                "charge_amount": "5.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": "1",
+                                "name": "Water usage fee",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "56250.00",
+                                "charge_amount": "5.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": "1",
+                                "name": "Towel fee",
+                                "type": "SERVICECHARGE"
+                            },
+                            {
+                                "amount": "56250.00",
+                                "charge_amount": "5.00",
+                                "charge_price_mode": "5",
+                                "currency": "VND",
+                                "excluded": "1",
+                                "name": "Service charge",
+                                "type": "SERVICECHARGE"
+                            }
+                        ],
+                        "net_price": "1125000.00"
+                    },
+                    "price": "1125000.00"
+                },
+                "must_reserve_free_parking": 0,
+                "name": "Apartment with Sea View",
+                "name_without_policy": "Apartment with Sea View",
+                "number_of_bathrooms": 2,
+                "photos": [],
+                "pod_ios_migrate_policies_to_smp_fullon": 0,
+                "rack_rate": {
+                    "currency": "VND",
+                    "price": "0.00"
+                },
+                "rate_type_id": 47,
+                "refundable": 0,
+                "refundable_until": "",
+                "room_count": 2,
+                "room_highlights": [
+                    {
+                        "icon": "icon_wifi",
+                        "key": "wifi",
+                        "translated_name": "Free WiFi"
+                    },
+                    {
+                        "icon": "icon_airconditioning",
+                        "id": 11,
+                        "translated_name": "Air conditioning"
+                    },
+                    {
+                        "icon": "icon_private-shower",
+                        "id": 38,
+                        "translated_name": "Private bathroom"
+                    },
+                    {
+                        "icon": "icon_platefork",
+                        "id": 45,
+                        "translated_name": "Kitchen"
+                    }
+                ],
+                "room_id": 418944008,
+                "room_name": "Apartment with Sea View",
+                "room_surface_in_feet2": 1076.39104,
+                "room_surface_in_m2": "100.00",
+                "roomtype_id": 1,
+                "smoking": 0
+            }
+        ],
+        "booking_home": {
+            "group": "apartment_like",
+            "is_aparthotel": 0,
+            "is_booking_home": 1,
+            "is_single_type_property": 0,
+            "is_single_unit_property": 0,
+            "is_vacation_rental": 1,
+            "quality_class": 3,
+            "segment": 1
+        },
+        "breakfast_review_score": {
+            "rating": 0,
+            "review_count": 0,
+            "review_number": 0,
+            "review_score": 0,
+            "review_score_word": "",
+            "review_snippet": ""
+        },
+        "cc_required": "0",
+        "check_only_x_left": 1,
+        "city_trans": "Vung Tau",
+        "covid_banner_exp_variant": 0,
+        "cvc_required": "0",
+        "default_language": "vi",
+        "default_wishlist_name": "Vung Tau",
+        "departure_date": "2021-05-09",
+        "distance_to_cc": 1.99399592752971,
+        "domestic_no_cc": 0,
+        "duplicate_rates_removed": 0,
+        "family_facilities": [
+            "Soundproof rooms",
+            "Beachfront",
+            "Family rooms"
+        ],
+        "free_cancellation_recommendation": {
+            "action_modal": {
+                "details": "For bookings made on or after April 6, 2020, be sure to consider the risk of the coronavirus (COVID-19) and associated government measures. If you don’t book a flexible rate, you may not be entitled to a refund. Your cancellation request will be handled by the property, based on your chosen policy and consumer law where applicable. During times of uncertainty, we recommend booking an option with free cancellation. If your plans change, you can cancel free of charge until free cancellation expires.",
+                "title": "Check your booking conditions"
+            },
+            "banner": {
+                "action_text": "Read more",
+                "subtitle": "Starting April 6, 2020, your chosen cancellation policy will apply, regardless of the coronavirus. We recommend booking an option with free cancellation in case your travel plans change.",
+                "title": "Find a cancellation policy that works for you"
+            }
+        },
+        "hotel_facilities": "302,146,189,25,2,47,186,49,108,64,109,89,305,8,19,465,5,185,161,70,158,182,167,96,107,181,28,160,48,179",
+        "hotel_id": 4189440,
+        "hotel_include_breakfast": 0,
+        "hotel_name": "Sea - bathing in Vung Tau",
+        "hotel_name_trans": "",
+        "hotel_text": {
+            "important_information": "Payment before arrival by bank transfer is required. The property will contact you after you book to provide instructions.  This property does not accommodate bachelor(ette) or similar parties.",
+            "policies": [
+                {
+                    "class": "POLICY_CANCELLATION",
+                    "content": "You can cancel free of charge until 6:00 PM on the day of arrival. You'll be charged the total price of the reservation if you cancel after 6:00 PM on the day of arrival."
+                },
+                {
+                    "class": "POLICY_CHILDREN",
+                    "content": "All children are welcome. There is no capacity for extra beds in the room.\nThe maximum number of total guests in a room is 12.\nThere is no capacity for cribs in the room.\n"
+                },
+                {
+                    "class": "POLICY_HOTEL_INTERNET",
+                    "content": "WiFi is available in the hotel rooms and is free of charge. "
+                },
+                {
+                    "class": "POLICY_HOTEL_PARKING",
+                    "content": "Private parking is available on site (reservation is needed) and costs  VND 23317.64 per  day. "
+                },
+                {
+                    "class": "POLICY_HOTEL_PETS",
+                    "content": "Pets are not allowed. "
+                },
+                {
+                    "class": "POLICY_PREPAY",
+                    "content": "You'll be charged a prepayment of the total price at any time."
+                },
+                {
+                    "class": "POLICY_PREAUTHORIZE",
+                    "content": "The property reserves the right to pre-authorize credit cards prior to arrival."
+                },
+                {
+                    "class": "POLICY_HOTEL_EXTRACHARGES",
+                    "content": "5 % Water usage fee is excluded. 5 % Cleaning fee is excluded. 5 % Gas fee is excluded. 5 % Service charge is excluded. 5 % Towel fee is excluded. 10 % Electricity fee is excluded. A VAT is not applicable. A City tax is not applicable.",
+                    "items": [
+                        "5 % Water usage fee is excluded.",
+                        "5 % Cleaning fee is excluded.",
+                        "5 % Gas fee is excluded.",
+                        "5 % Service charge is excluded.",
+                        "5 % Towel fee is excluded.",
+                        "10 % Electricity fee is excluded.",
+                        "A VAT is not applicable.",
+                        "A City tax is not applicable."
+                    ]
+                }
+            ]
+        },
+        "info_banners": [
+            {
+                "collapsible": 1,
+                "dismissable": 0,
+                "id": "coronavirus",
+                "is_default_collapsed": 1,
+                "messages": [
+                    "Check for travel restrictions. Travel might only be permitted for certain purposes, and touristic travel in particular may not be allowed."
+                ],
+                "position_to_inject": 0,
+                "primary_action": {
+                    "action": "open-page",
+                    "action_context": "covid19-faq",
+                    "text": "Read more"
+                },
+                "priority": 100,
+                "secondary_action": null,
+                "show_after_dismissed": 1,
+                "show_after_dismissed_time": 24,
+                "title": "Coronavirus (COVID-19) support",
+                "type": "banner"
+            }
+        ],
+        "is_closed": 0,
+        "is_cpv2_property": 1,
+        "is_crimea": 0,
+        "is_hotel_ctrip": 0,
+        "is_preferred": 0,
+        "is_preferred_plus": 0,
+        "is_single_unit_vr": 0,
+        "languages_spoken": {
+            "languagecode": [
+                "vi",
+                "en-gb"
+            ]
+        },
+        "last_matching_block_index": 0,
+        "last_reservation": {
+            "country": null,
+            "countrycode": null,
+            "time": ""
+        },
+        "latitude": 10.3299058264004,
+        "longitude": 107.086828057514,
+        "max_rooms_in_reservation": 10,
+        "only_x_left": {
+            "post_select": {
+                "418944008_297997072_10_0_0": "You selected the last 2 like this left on Booking.com!",
+                "418944010_297997072_8_0_0": "You selected the last 5 like this left on Booking.com!"
+            },
+            "room_page": {
+                "418944008_297997072_10_0_0": "Only 2 left on Booking.com",
+                "418944010_297997072_8_0_0": "Only 5 left on Booking.com"
+            },
+            "rooms_list": {
+                "418944008_297997072_10_0_0": "Only 2 left on Booking.com",
+                "418944010_297997072_8_0_0": "Only 5 left on Booking.com"
+            }
+        },
+        "plq_sensitivity": "",
+        "preferences": [],
+        "room_recommendation": [
+            {
+                "adults": 1,
+                "babies": 0,
+                "block_id": "418944010_297997072_8_0_0",
+                "children": 0,
+                "number_of_extra_beds": 0,
+                "total_extra_bed_price": 0,
+                "total_extra_bed_price_in_hotel_currency": 0
+            }
+        ],
+        "soldout_rooms": [],
+        "spoken_languages": [
+            "vi",
+            "en-gb"
+        ],
+        "timezone": "Asia/Ho_Chi_Minh",
+        "top_ufi_benefits": [
+            {
+                "icon": "icon_wifi",
+                "translated_name": "WiFi"
+            },
+            {
+                "icon": "icon_parkingfee",
+                "translated_name": "Parking"
+            },
+            {
+                "icon": "icon_family",
+                "translated_name": "Family rooms"
+            },
+            {
+                "icon": "icon_concierge",
+                "translated_name": "Room service"
+            }
+        ],
+        "total_blocks": 2,
+        "use_new_bui_icon_highlight": 0,
+        "wl_dest_id": "city::-3733750"
+    }
+]
