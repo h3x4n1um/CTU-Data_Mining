@@ -13,7 +13,7 @@ def rand_uuid() -> str:
     return str(uuid.uuid4())
 
 
-def get_response_json(r):
+def get_response_json(r) -> dict:
     res = None
     try:
         res = r.json()
@@ -201,7 +201,7 @@ def booking_api(dest_name: str) -> None:
                 # template from hotel_info
                 hotel_room_info = hotel_info
 
-                # iew
+                # view
                 view = set()
                 for facilities in hotel_room_json["block_text"]["facilities"]:
                     if facilities.lower().find(" view") != -1:
